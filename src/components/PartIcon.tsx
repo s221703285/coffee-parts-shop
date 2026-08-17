@@ -64,5 +64,15 @@ export function PartIcon({ category }: { category: Category }) {
           <circle cx="48" cy="48" r="4" {...common} stroke={ACCENT} />
         </svg>
       );
+    case 'machine':
+      return (
+        <svg viewBox="0 0 96 96" className="part-icon" aria-hidden>
+          <rect x="16" y="20" width="64" height="44" rx="3" {...common} />
+          <path d="M16 36h64" {...common} />
+          <path d="M40 64v10h16V64" {...common} />
+          <circle cx="66" cy="28" r="4" {...common} stroke={ACCENT} />
+          <path d="M28 46h20M28 54h12" {...common} strokeDasharray="3 4" />
+        </svg>
+      );
   }
 }

@@ -1,8 +1,6 @@
-import { useCart } from '../context/CartContext';
+export const SHOP_URL = 'https://shopee.tw/akey9673';
 
-export function Header({ onOpenCart }: { onOpenCart: () => void }) {
-  const { totalQty } = useCart();
-
+export function Header() {
   return (
     <header className="header">
       <div className="header-inner">
@@ -18,10 +16,15 @@ export function Header({ onOpenCart }: { onOpenCart: () => void }) {
           <a href="#about">關於供應</a>
           <a href="#contact">聯絡採購</a>
         </nav>
-        <button className="cart-btn" onClick={onOpenCart}>
-          <span className="cart-label">購物車</span>
-          <span className="cart-count">{totalQty}</span>
-        </button>
+        <a
+          className="cart-btn shop-link"
+          href={SHOP_URL}
+          target="_blank"
+          rel="noreferrer"
+        >
+          <span className="cart-label">蝦皮賣場</span>
+          <span className="cart-count">↗</span>
+        </a>
       </div>
     </header>
   );

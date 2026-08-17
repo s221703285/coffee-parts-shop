@@ -3,7 +3,8 @@ export type Category =
   | 'steam'
   | 'grinder'
   | 'electric'
-  | 'pump';
+  | 'pump'
+  | 'machine';
 
 export interface Product {
   id: string;
@@ -16,6 +17,16 @@ export interface Product {
   spec: string;
   material: string;
   compatible: string;
+  /** 本地主圖 (public/img/products/{id}.webp) */
+  image: string;
+  /** 蝦皮原始圖片 URL 列表 */
+  images: string[];
+  sold: number;
+  rating: number;
+  ratingCount: number;
+  description: string;
+  /** 蝦皮商品頁 */
+  url: string;
 }
 
 export interface CartItem {
@@ -29,4 +40,5 @@ export const CATEGORY_LABEL: Record<Category, string> = {
   grinder: '研磨零件',
   electric: '電控零件',
   pump: '幫浦水路',
+  machine: '整機 / 二手機',
 };

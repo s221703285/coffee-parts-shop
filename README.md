@@ -1,6 +1,6 @@
 # KAFFE·WERK — 咖啡機零組件購物網站
 
-專業工業風的咖啡機零組件供應商購物網站前端 Demo。目前使用測試資料,尚未串接後端。
+專業工業風的咖啡機零組件供應商購物網站前端 Demo。商品資料與圖片來自蝦皮賣場「零件咖」(https://shopee.tw/akey9673),尚未串接後端。
 
 ## 技術架構
 
@@ -23,37 +23,60 @@ npm run preview  # 預覽 production build
 
 ## 功能
 
-- 16 項零件測試資料:料號 / 品牌 / 規格 / 材質 / 適用機種 / 庫存
-- 分類篩選:沖煮系統、蒸氣系統、研磨零件、電控零件、幫浦水路
-- 關鍵字搜尋(品名 / 料號 / 品牌)與排序(價格 / 庫存)
-- 購物車側邊抽屜:數量增減(受庫存上限)、移除、合計
-- 低庫存標示、RWD 響應式版面
-- 每類零件配線稿風格 SVG 示意圖
+- 211 項真實商品(蝦皮「零件咖」全部上架品項):品名 / 價格 / 庫存 / 已售 / 評價 / 主圖 / 蝦皮連結
+- 規格 / 材質 / 適用機種由品名與商品描述以規則推導(見 `scripts/shopee/gen-products.cjs`)
+- 分類篩選:沖煮系統、蒸氣系統、研磨零件、電控零件、幫浦水路、整機 / 二手機(以品名關鍵字分類)
+- 關鍵字搜尋(品名 / 料號 / 品牌)與排序(價格 / 熱銷 / 庫存)
+- 分頁瀏覽:預設每頁 24 筆(可切 12 / 24 / 48),切換篩選自動回第 1 頁
+- 每張卡片的圖片 / 品名 / 「蝦皮商品頁」皆連結至對應蝦皮商品
+- 卡片「前往蝦皮購買」與頁首「蝦皮賣場」連結導向蝦皮下單(不做站內購物車;`context/CartContext.tsx`、`CartDrawer.tsx` 保留未接線)
+- 售完 / 低庫存標示、RWD 響應式版面
+- 商品圖 400px WebP 存於 `public/img/products/{itemid}.webp`,載入失敗時退回線稿 SVG 圖示
 
 ## 專案結構
 
 ```
 src/
 ├── types.ts              # Product / CartItem 型別與分類定義
-├── data/products.ts      # 測試資料(之後改為 API 取得)
+├── data/products.ts      # 由 scripts/shopee/gen-products.cjs 產生,勿手動編輯
 ├── context/CartContext.tsx  # 購物車狀態管理
 ├── components/
-│   ├── Header.tsx        # 頁首導覽 + 購物車按鈕
+│   ├── Header.tsx        # 頁首導覽 + 蝦皮賣場連結
 │   ├── Hero.tsx          # 首屏形象區
 │   ├── Filters.tsx       # 分類 / 搜尋 / 排序
-│   ├── ProductCard.tsx   # 產品卡片
+│   ├── ProductCard.tsx   # 產品卡片(圖片 / 品名連結至蝦皮)
+│   ├── Pagination.tsx    # 分頁列 + 每頁筆數
 │   ├── PartIcon.tsx      # 各分類線稿 SVG 圖示
-│   ├── CartDrawer.tsx    # 購物車抽屜
+│   ├── CartDrawer.tsx    # 購物車抽屜(目前未使用)
 │   └── Footer.tsx        # 頁尾
 └── App.tsx               # 主頁組合與篩選邏輯
 ```
 
+## 重新抓取蝦皮資料
+
+蝦皮商品列表 / 詳情 API 需登入且有反爬,流程為「真實 Chrome + 手動登入 + Playwright CDP 驅動」:
+
+```bash
+# 1. 啟動 Chrome(獨立 profile)開啟遠端偵錯埠
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9333 --user-data-dir=%TEMP%\shopee-prof
+# 2. 安裝 playwright(Node 16 用 1.44)並開啟登入頁,手動登入 + 過驗證
+cd scripts/shopee && npm i playwright@1.44.0 && node open-login.cjs
+# 3. 抓列表(sortBy=pop 翻頁,寫入 data/items.json)
+node scrape-list.cjs
+# 4. 抓詳情(描述 / 庫存,寫入 data/pdp.json;有節流,被擋會自動等 4 分鐘重試,可中斷續跑)
+node scrape-detail.cjs 300
+# 5. 下載主圖(400px webp)並產生 src/data/products.ts
+node gen-products.cjs
+```
+
+圖片下載:`https://down-tw.img.susercontent.com/file/{hash}@resize_w400_nl.webp` → `public/img/products/{itemid}.webp`。
+
 ## 後續串接後端
 
 1. `data/products.ts` 改為呼叫商品 API
-2. `CartDrawer.tsx` 的結帳按鈕接下單 API
+2. 若要站內下單:在 `App.tsx` 接回 `CartProvider` / `CartDrawer`,卡片按鈕改回 `addItem`
 3. 需要 SSR / SEO 時可評估遷移 Next.js
 
 ## 免責
 
-所有商品、品牌、價格皆為 Demo 測試資料,非真實販售資訊。
+商品名稱、價格、圖片版權屬蝦皮賣場「零件咖」所有,本專案僅作前端 Demo 使用;「規格 / 材質 / 適用」欄位為程式推導,非賣家原始資訊。

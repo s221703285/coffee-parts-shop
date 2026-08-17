@@ -18,7 +18,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-bar">
-        <span>© 2026 KAFFE·WERK PARTS SUPPLY — DEMO 測試資料,非真實商品</span>
+        <span>© 2026 KAFFE·WERK PARTS SUPPLY — DEMO — 商品資料與圖片來源:蝦皮「零件咖」</span>
       </div>
     </footer>
   );

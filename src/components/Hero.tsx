@@ -1,3 +1,7 @@
+import { PRODUCTS } from '../data/products';
+
+const BRAND_COUNT = new Set(PRODUCTS.map((p) => p.brand)).size;
+
 export function Hero() {
   return (
     <section className="hero">
@@ -14,16 +18,16 @@ export function Hero() {
         </p>
         <div className="hero-stats">
           <div className="stat">
-            <span className="stat-num">1,600+</span>
-            <span className="stat-label">庫存品項</span>
+            <span className="stat-num">{PRODUCTS.length}</span>
+            <span className="stat-label">上架品項</span>
           </div>
           <div className="stat">
-            <span className="stat-num">48H</span>
-            <span className="stat-label">出貨時效</span>
+            <span className="stat-num">4.98</span>
+            <span className="stat-label">賣場評價</span>
           </div>
           <div className="stat">
-            <span className="stat-num">12</span>
-            <span className="stat-label">合作品牌</span>
+            <span className="stat-num">{BRAND_COUNT}</span>
+            <span className="stat-label">涵蓋品牌</span>
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 import type { Category } from '../types';
 import { CATEGORY_LABEL } from '../types';
 
-export type SortKey = 'default' | 'price-asc' | 'price-desc' | 'stock';
+export type SortKey = 'default' | 'price-asc' | 'price-desc' | 'stock' | 'sold';
 
 interface FiltersProps {
   category: Category | 'all';
@@ -19,6 +19,7 @@ const CATEGORIES: (Category | 'all')[] = [
   'grinder',
   'electric',
   'pump',
+  'machine',
 ];
 
 export function Filters({
@@ -58,6 +59,7 @@ export function Filters({
           <option value="default">預設排序</option>
           <option value="price-asc">價格低到高</option>
           <option value="price-desc">價格高到低</option>
+          <option value="sold">熱銷優先</option>
           <option value="stock">庫存多到少</option>
         </select>
       </div>
