@@ -2,6 +2,7 @@ import type { Product } from '../types';
 import { CATEGORY_LABEL } from '../types';
 import { PartIcon } from './PartIcon';
 import { useState } from 'react';
+import { assetUrl } from '../assetUrl';
 
 export function ProductCard({ product }: { product: Product }) {
   const [imgFailed, setImgFailed] = useState(false);
@@ -23,7 +24,7 @@ export function ProductCard({ product }: { product: Product }) {
           ) : (
             <img
               className="card-img"
-              src={product.image}
+              src={assetUrl(product.image)}
               alt={product.name}
               loading="lazy"
               onError={() => setImgFailed(true)}
