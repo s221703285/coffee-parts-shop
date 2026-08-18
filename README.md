@@ -1,12 +1,12 @@
 # KAFFE·WERK — 咖啡機零組件購物網站
 
-專業工業風的咖啡機零組件供應商購物網站前端 Demo。商品資料與圖片來自蝦皮賣場「零件咖」(https://shopee.tw/akey9673),尚未串接後端。
+乾淨電商風的咖啡機零組件供應商購物網站前端 Demo。商品資料與圖片來自蝦皮賣場「零件咖」(https://shopee.tw/akey9673),尚未串接後端。
 
 ## 技術架構
 
 - **React 18** + **TypeScript**
 - **Vite 4**(因開發機 Node 為 v16;升級 Node 20+ 後可換 Vite 最新版)
-- 純 CSS 自訂工業風主題,無 UI 框架
+- 純 CSS 自訂主題,無 UI 框架:Professional Parts Store —— 60% 電商 / 25% 咖啡 / 15% 工業;米白背景、深咖啡文字、黑色產品名與價格、少量金屬灰、咖啡色 CTA,乾淨的 Apple / Muji 式產品展示
 - 購物車狀態以 React Context 管理
 
 ## 開發
@@ -29,6 +29,7 @@ npm run preview  # 預覽 production build
 - 關鍵字搜尋(品名 / 料號 / 品牌)與排序(價格 / 熱銷 / 庫存)
 - 分頁瀏覽:預設每頁 24 筆(可切 12 / 24 / 48),切換篩選自動回第 1 頁
 - 每張卡片的圖片 / 品名 / 「蝦皮商品頁」皆連結至對應蝦皮商品
+- 「商業合作項目」獨立頁(`#/partners`,極簡 hash 路由,無額外套件):6 種合作方案、流程、條件、FAQ、需求表單(Demo 不送出);內容為假資料,見 `src/data/partners.ts`
 - 卡片「前往蝦皮購買」與頁首「蝦皮賣場」連結導向蝦皮下單(不做站內購物車;`context/CartContext.tsx`、`CartDrawer.tsx` 保留未接線)
 - 售完 / 低庫存標示、RWD 響應式版面
 - 商品圖 400px WebP 存於 `public/img/products/{itemid}.webp`,載入失敗時退回線稿 SVG 圖示
@@ -41,7 +42,7 @@ src/
 ├── data/products.ts      # 由 scripts/shopee/gen-products.cjs 產生,勿手動編輯
 ├── context/CartContext.tsx  # 購物車狀態管理
 ├── components/
-│   ├── Header.tsx        # 頁首導覽 + 蝦皮賣場連結
+│   ├── Header.tsx        # 頁首導覽(產品目錄 / 商業合作項目)+ 蝦皮賣場連結
 │   ├── Hero.tsx          # 首屏形象區
 │   ├── Filters.tsx       # 分類 / 搜尋 / 排序
 │   ├── ProductCard.tsx   # 產品卡片(圖片 / 品名連結至蝦皮)
@@ -49,7 +50,12 @@ src/
 │   ├── PartIcon.tsx      # 各分類線稿 SVG 圖示
 │   ├── CartDrawer.tsx    # 購物車抽屜(目前未使用)
 │   └── Footer.tsx        # 頁尾
-└── App.tsx               # 主頁組合與篩選邏輯
+├── router.ts             # hash 路由:#/ 產品目錄、#/partners 商業合作項目
+├── pages/
+│   ├── Catalog.tsx       # 首頁:Hero + 產品目錄(篩選 / 分頁)
+│   └── Partners.tsx      # 商業合作項目頁
+├── data/partners.ts      # 商業合作頁假資料
+└── App.tsx               # Header + 路由切換 + Footer
 ```
 
 ## 重新抓取蝦皮資料

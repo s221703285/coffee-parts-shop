@@ -6,7 +6,7 @@ export function Hero() {
   return (
     <section className="hero">
       <div className="hero-inner">
-        <p className="hero-tag">// INDUSTRIAL PARTS SUPPLY</p>
+        <p className="hero-tag">Professional Parts Store</p>
         <h1 className="hero-title">
           專業咖啡機零組件
           <br />

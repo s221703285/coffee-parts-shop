@@ -1,20 +1,36 @@
+import type { Route } from '../router';
+import { ROUTES, goHomeAnchor } from '../router';
+
 export const SHOP_URL = 'https://shopee.tw/akey9673';
 
-export function Header() {
+export function Header({ route }: { route: Route }) {
   return (
     <header className="header">
       <div className="header-inner">
-        <div className="logo">
+        <a className="logo" href={ROUTES.home}>
           <span className="logo-mark">▚</span>
           <div className="logo-text">
             <span className="logo-name">KAFFE·WERK</span>
             <span className="logo-sub">咖啡機零組件供應</span>
           </div>
-        </div>
+        </a>
         <nav className="nav">
-          <a href="#products">產品目錄</a>
-          <a href="#about">關於供應</a>
-          <a href="#contact">聯絡採購</a>
+          <a
+            href={ROUTES.home}
+            className={route === 'home' ? 'active' : ''}
+            onClick={(e) => {
+              e.preventDefault();
+              goHomeAnchor('products');
+            }}
+          >
+            產品目錄
+          </a>
+          <a
+            href={ROUTES.partners}
+            className={route === 'partners' ? 'active' : ''}
+          >
+            商業合作項目
+          </a>
         </nav>
         <a
           className="cart-btn shop-link"
