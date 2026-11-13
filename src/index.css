@@ -92,21 +92,10 @@ a {
 }
 
 .logo-mark {
-  width: 30px;
-  height: 30px;
-  font-size: 0;
-  border-radius: 8px;
-  background: var(--coffee);
-  position: relative;
+  width: 36px;
+  height: 36px;
+  display: block;
   flex-shrink: 0;
-}
-
-.logo-mark::after {
-  content: '';
-  position: absolute;
-  inset: 9px;
-  border-radius: 3px;
-  background: var(--bg);
 }
 
 .logo-text {
@@ -1344,4 +1333,109 @@ a {
 #products,
 .page-section {
   scroll-margin-top: 84px;
+}
+
+/* ============ HERO VISUAL ============ */
+.hero-inner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 460px);
+  align-items: center;
+  gap: 48px;
+}
+
+.hero-visual {
+  width: 100%;
+  height: auto;
+  display: block;
+  overflow: visible;
+}
+
+.hero-chip rect {
+  filter: drop-shadow(0 6px 14px rgba(74, 47, 35, 0.1));
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hero-chip {
+    animation: hero-float 6s ease-in-out infinite;
+  }
+
+  .hero-chip-b {
+    animation-delay: -1.5s;
+  }
+
+  .hero-chip-c {
+    animation-delay: -3s;
+  }
+
+  .hero-chip-d {
+    animation-delay: -4.5s;
+  }
+
+  .hero-steam {
+    animation: hero-steam 3.6s ease-in-out infinite;
+  }
+
+  .hero-gear {
+    transform-box: fill-box;
+    transform-origin: center;
+    animation: hero-spin 18s linear infinite;
+  }
+}
+
+@keyframes hero-float {
+  0%,
+  100% {
+    translate: 0 0;
+  }
+  50% {
+    translate: 0 -8px;
+  }
+}
+
+@keyframes hero-steam {
+  0%,
+  100% {
+    opacity: 0.55;
+    translate: 0 2px;
+  }
+  50% {
+    opacity: 1;
+    translate: 0 -3px;
+  }
+}
+
+@keyframes hero-spin {
+  to {
+    rotate: 360deg;
+  }
+}
+
+@media (max-width: 860px) {
+  .hero-inner {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .hero-visual {
+    max-width: 340px;
+    margin: 0 auto;
+  }
+}
+
+/* ============ PARTNER FORM: 送出狀態 ============ */
+.form-foot .add-btn {
+  margin-left: auto;
+}
+
+.form-foot .add-btn:disabled {
+  opacity: 0.6;
+  cursor: progress;
+}
+
+.form-error {
+  color: #a3341f;
+}
+
+.form-honey {
+  display: none;
 }

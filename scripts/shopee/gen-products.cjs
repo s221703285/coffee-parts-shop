@@ -61,18 +61,15 @@ const rows = items.map((it, i) => {
   let stock = d?.stock != null ? parseInt(String(d.stock).replace(/\D/g, '')) : NaN;
   if (Number.isNaN(stock)) stock = it.is_sold_out ? 0 : (d?.models?.some(m => m.has_stock) === false ? 0 : 5);
   const rating = it.item_rating?.rating_star ?? d?.rating ?? 0;
-  const ratingCount = it.item_rating?.rating_count?.[0] ?? 0;
-  const imgs = (c.images || d?.images || [c.image]).filter(Boolean);
   seen[category] = (seen[category] || 0) + 1;
   return {
     id: String(it.itemid),
     sku: `${PREFIX[category]}-${String(it.itemid).slice(-6)}`,
     name, brand: brand(c.name || ''), category, price, stock,
     spec: specFrom(c.name || '', d), material: material(c.name || '', d?.description), compatible: compat(c.name || ''),
+    // 只輸出頁面實際使用的欄位(蝦皮圖片列表、商品描述、評價數不輸出,以減少打包體積)
     image: `/img/products/${it.itemid}.webp`,
-    images: imgs.map(h => `https://down-tw.img.susercontent.com/file/${h}`),
-    sold, rating: Math.round(rating * 10) / 10, ratingCount,
-    description: (d?.description || '').replace(/\r/g, '').trim(),
+    sold, rating: Math.round(rating * 10) / 10,
     url: `https://shopee.tw/product/${it.shopid}/${it.itemid}`,
   };
 });
@@ -83,7 +80,7 @@ const ts = `import type { Product } from '../types';
 export const PRODUCTS: Product[] = ${JSON.stringify(rows, null, 2)};
 `;
 fs.writeFileSync(OUT, ts);
-console.log('wrote', rows.length, 'products; with detail:', rows.filter(r => r.description).length, 'cats', seen);
+console.log('wrote', rows.length, 'products; with detail:', rows.filter(r => pdp[r.id]).length, 'cats', seen);
 
 // ---- 下載缺少的主圖 (400px webp) ----
 const https = require('https');

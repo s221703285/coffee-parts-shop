@@ -1,5 +1,6 @@
 import type { Route } from '../router';
 import { ROUTES, goHomeAnchor } from '../router';
+import { assetUrl } from '../assetUrl';
 
 export const SHOP_URL = 'https://shopee.tw/akey9673';
 
@@ -8,9 +9,9 @@ export function Header({ route }: { route: Route }) {
     <header className="header">
       <div className="header-inner">
         <a className="logo" href={ROUTES.home}>
-          <span className="logo-mark">▚</span>
+          <img className="logo-mark" src={assetUrl('/logo.svg')} alt="" width={36} height={36} />
           <div className="logo-text">
-            <span className="logo-name">KAFFE·WERK</span>
+            <span className="logo-name">零件咖</span>
             <span className="logo-sub">咖啡機零組件供應</span>
           </div>
         </a>

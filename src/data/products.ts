@@ -15,16 +15,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "E61",
     "image": "/img/products/7801356552.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/defb25ffebacccd7ee61ca14f5ed49f5",
-      "https://down-tw.img.susercontent.com/file/d3533891b211f6520a291d7c459df3ed",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22090-ob82c484q1hv3f",
-      "https://down-tw.img.susercontent.com/file/16db330213b217c152ab28aac25e0a2c"
-    ],
     "sold": 420,
     "rating": 5,
-    "ratingCount": 120,
-    "description": "半自動咖啡機專用 \n適用：BFC, Expobar , Fiamma, Grimac, \n            Lanna, Lelit, Sanremo \nE61沖泡頭 \n墊圈 加厚",
     "url": "https://shopee.tw/product/14094915/7801356552"
   },
   {
@@ -39,17 +31,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Faema / E98 / E98RE / M27",
     "image": "/img/products/1799814139.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-825bc-mqj3z96e74ekee",
-      "https://down-tw.img.susercontent.com/file/06dad3a24b5c074be23bee49d3a60e2b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m5zh3ct8p5ee0f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m5zh3ct8qjaue5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m5zh3ct8p4qeb4"
-    ],
     "sold": 257,
     "rating": 5,
-    "ratingCount": 75,
-    "description": "半自動咖啡機 faema 原廠，\n厚度 0.8公分\n墊圈上面有烙印標示。\n沖泡頭專用，E98RE, M27 可以通用\n本項零件 售價 <不含不銹鋼分水網>。",
     "url": "https://shopee.tw/product/14094915/1799814139"
   },
   {
@@ -64,14 +47,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "CMA",
     "image": "/img/products/19842776195.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/fed88a3bea456b6971f5ae3d2e040949",
-      "https://down-tw.img.susercontent.com/file/f83b347062ae504bf19050ad2447ec35"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於 CMA,   72×56×8.5",
     "url": "https://shopee.tw/product/14094915/19842776195"
   },
   {
@@ -86,16 +63,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/20710616415.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/eae8289f416895763c57c3a0b06165c9",
-      "https://down-tw.img.susercontent.com/file/1fd648bf6287b56d488a5091d9f0d284",
-      "https://down-tw.img.susercontent.com/file/aa0ce39dff436b9c2d374b87f1ed3af6",
-      "https://down-tw.img.susercontent.com/file/6091d97acb854d9a2d4257937c301d87"
-    ],
     "sold": 48,
     "rating": 4.9,
-    "ratingCount": 23,
-    "description": "適用於 Klub Gino \n             牙外徑1.3公分（2分牙）",
     "url": "https://shopee.tw/product/14094915/20710616415"
   },
   {
@@ -110,15 +79,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "KLUB / Gino",
     "image": "/img/products/26814629257.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m1km8ew359992f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasj-m1km8exh37yj05",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasa-m1km8ezf0dulce"
-    ],
     "sold": 37,
     "rating": 5,
-    "ratingCount": 13,
-    "description": "10uf",
     "url": "https://shopee.tw/product/14094915/26814629257"
   },
   {
@@ -133,21 +95,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "KLUB / Gino",
     "image": "/img/products/1854780673.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lzrcc6hzja446b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-grve1wvulbov25",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-ijw1uampsqoveb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-52fcoyvulbovff",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-3qve1wvulbov11",
-      "https://down-tw.img.susercontent.com/file/d7c3b5babf94545cb406678cc2062840",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lzrcc6hzhvjo71",
-      "https://down-tw.img.susercontent.com/file/064e030ea1ff738e91b345770c59230b",
-      "https://down-tw.img.susercontent.com/file/54d1b8196a3450842f3b1266c22c26c9"
-    ],
     "sold": 133,
     "rating": 5,
-    "ratingCount": 47,
-    "description": "更新墊圈 順序：\n請（先拆下）\n沖泡頭中間的>分水網和>分水頭>舊墊圈\n>> 再換新墊圈\n封面照片 是提供給消費者 一個比較明確的概念。\n不含周邊配置的零件。\n適用機器 : Gino ,KLub,",
     "url": "https://shopee.tw/product/14094915/1854780673"
   },
   {
@@ -162,15 +111,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Ducati / M80 / T80",
     "image": "/img/products/23235925757.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lwuqbgjjsahyf3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lvmyg6fqkloy7a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lvmyg6fqkm3b5e"
-    ],
     "sold": 28,
     "rating": 5,
-    "ratingCount": 8,
-    "description": "規格 12.5uf\n適用於 ：磨豆機 Quamar M80 T80\n                  Fiorenzato F64E",
     "url": "https://shopee.tw/product/14094915/23235925757"
   },
   {
@@ -185,15 +127,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23530898613.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-zdun3rg16govf7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-yvko17mv6gov3f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-vuko17mv6gov6c"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於 ：咖啡機 磨豆機 \n規格： 220V, 8uf",
     "url": "https://shopee.tw/product/14094915/23530898613"
   },
   {
@@ -208,19 +143,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "KLUB / Gino",
     "image": "/img/products/17172813153.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/29b95492e2c074be08f4be6ca55cdabf",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lpk6o2hwm9zt80",
-      "https://down-tw.img.susercontent.com/file/f8e972328918155941995bb5070b0f7e",
-      "https://down-tw.img.susercontent.com/file/fef4f89ce8294883aaedcf36595bc35c",
-      "https://down-tw.img.susercontent.com/file/ab0bcdfea945719fe0748f16f0bbad76",
-      "https://down-tw.img.susercontent.com/file/e46972f5656078ffe254514a45e66bce",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lqncilzdzye051"
-    ],
     "sold": 41,
     "rating": 5,
-    "ratingCount": 14,
-    "description": "適用於 Klub",
     "url": "https://shopee.tw/product/14094915/17172813153"
   },
   {
@@ -235,13 +159,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23419667235.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-825b8-mqdhq1os0mww24"
-    ],
     "sold": 52,
     "rating": 4.9,
-    "ratingCount": 9,
-    "description": "本鋼絲只適用於58填壓器 沖泡把手濾杯\n鋼絲規格 粗度 直徑1.0mm",
     "url": "https://shopee.tw/product/14094915/23419667235"
   },
   {
@@ -256,13 +175,8 @@ export const PRODUCTS: Product[] = [
     "material": "矽膠",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/26566545999.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m27gusk31h5m75"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "耐高溫 材質 ： 矽膠",
     "url": "https://shopee.tw/product/14094915/26566545999"
   },
   {
@@ -277,13 +191,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "KLUB / Gino",
     "image": "/img/products/29655228075.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lxnllhyqlv6ua1"
-    ],
     "sold": 28,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "適用於\nKlub Gino 咖啡機 茶機",
     "url": "https://shopee.tw/product/14094915/29655228075"
   },
   {
@@ -298,13 +207,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Gaggia / Saeco",
     "image": "/img/products/27504518265.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lxb3zexq2nty7c"
-    ],
     "sold": 18,
     "rating": 5,
-    "ratingCount": 5,
-    "description": "適用於 \nGaggia Saeco",
     "url": "https://shopee.tw/product/14094915/27504518265"
   },
   {
@@ -319,16 +223,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Ducati",
     "image": "/img/products/1190136663.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasa-m4k6en2xtl1x95",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lt2bnqmm3sgi43",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lt2bnqmm570y45",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m4k6en0zwftp01"
-    ],
     "sold": 55,
     "rating": 5,
-    "ratingCount": 25,
-    "description": "說明 : \n\n半自動咖啡機 馬達啟動電容器×1\n220V 10uf",
     "url": "https://shopee.tw/product/14094915/1190136663"
   },
   {
@@ -343,14 +239,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/20834649355.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-23010-mrbtubm1u2lv04",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-23010-cvcvgam1u2lvab"
-    ],
     "sold": 18,
     "rating": 4.8,
-    "ratingCount": 4,
-    "description": "適用於 半自動咖啡機 沖泡頭墊圈",
     "url": "https://shopee.tw/product/14094915/20834649355"
   },
   {
@@ -365,15 +255,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "Rancilio / Epoca",
     "image": "/img/products/17494214603.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul7-lfjdxjzsn8iy74",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lfjdxjzsn7ylfc",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-lfjdxjzson3e02"
-    ],
     "sold": 9,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "Rancilio Epoca 適用",
     "url": "https://shopee.tw/product/14094915/17494214603"
   },
   {
@@ -388,18 +271,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/22336222804.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lf1z9nk78kzr20",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul4-lf1z9njx8zlz4e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukw-lf1zvdhizfov10",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-lf1zvdgp0o5j27",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul5-lf1zvdimxt7z40",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lf1zvdhizgav34"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "3分內牙\n訂購前請一定要先確認 自己有辦法安裝\n本產品 無法退或換貨",
     "url": "https://shopee.tw/product/14094915/22336222804"
   },
   {
@@ -414,13 +287,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "KLUB / Gino",
     "image": "/img/products/25951949338.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-loj7x77qzszu1d"
-    ],
     "sold": 38,
     "rating": 5,
-    "ratingCount": 6,
-    "description": "",
     "url": "https://shopee.tw/product/14094915/25951949338"
   },
   {
@@ -435,15 +303,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "M80 / T80",
     "image": "/img/products/26473817824.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasc-m54qxkb820ly6a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasd-m54qxkb80ldie2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m54qxkb80m1i4b"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 1,
-    "description": ",適用於 M80 T80",
     "url": "https://shopee.tw/product/14094915/26473817824"
   },
   {
@@ -458,16 +319,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Aurelia / Victoria Arduino",
     "image": "/img/products/2291887625.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lb-mk5eesx2k7b7fe",
-      "https://down-tw.img.susercontent.com/file/84fb80a528de8394acf14ca1cf558136",
-      "https://down-tw.img.susercontent.com/file/8634d0ae132e860c0cd5f0b57e9242e0",
-      "https://down-tw.img.susercontent.com/file/ab5c2affde0e22a8040640a0f29bb211"
-    ],
     "sold": 31,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於\n Victoria Arduino \n墊圈規格 ： 單面帶有 斜度\n厚度 71*56*9.2mm",
     "url": "https://shopee.tw/product/14094915/2291887625"
   },
   {
@@ -482,15 +335,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gino",
     "image": "/img/products/22509206090.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lrwo5lfxwez623",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-i3b3s2tjxpkv3f",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-opsd1dqjxpkve7"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 5,
-    "description": "適用於: Gino \n（ 咖啡萃取 ）觸碰薄膜\n建議 對照一下 尺寸 以面買錯",
     "url": "https://shopee.tw/product/14094915/22509206090"
   },
   {
@@ -505,15 +351,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/20456937566.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-u3mb2zbyzzivdc",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-5f0ehzbyzziv2f",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-sucihubyzziv09"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "帶 線的電容器",
     "url": "https://shopee.tw/product/14094915/20456937566"
   },
   {
@@ -528,15 +367,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/27586911889.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk3-ma6re10cqjyq87",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk7-ma6re10d607mbe",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk1-ma6re10cqjtj83"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於 klub 茶機",
     "url": "https://shopee.tw/product/14094915/27586911889"
   },
   {
@@ -551,16 +383,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Rancilio / Epoca / Promac",
     "image": "/img/products/1978628935.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/a3b4f570af3ea7e3ccd45524904f0b7f",
-      "https://down-tw.img.susercontent.com/file/ca27b1586ac6b51e20b7851f7190fa9e",
-      "https://down-tw.img.susercontent.com/file/f3ac733bbdf4a527404ac530e4fa210a",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-8259a-mqirmdv6mlfx51"
-    ],
     "sold": 54,
     "rating": 4.9,
-    "ratingCount": 12,
-    "description": "本售價 是1片 為單位\n適用於：Rancilio Epoca , Promac \nRancilio original (原廠)標誌\n請注意：有需要用在Silvia 的機種，\n請一定要 詢問一下，避免厚度不合用。",
     "url": "https://shopee.tw/product/14094915/1978628935"
   },
   {
@@ -575,16 +399,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "E61",
     "image": "/img/products/190327615.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/82bb871a4e733abe7749484ea7fe0f82",
-      "https://down-tw.img.susercontent.com/file/ae48d9cfb96d8863203f087762fda297",
-      "https://down-tw.img.susercontent.com/file/40b0d830f5a098937c893db23add703b",
-      "https://down-tw.img.susercontent.com/file/74588a3fddb1413dc6541db8fd8ef15a"
-    ],
     "sold": 76,
     "rating": 5,
-    "ratingCount": 31,
-    "description": "規格 :73*57*8\n(紅色記號), 不含分水網\n適用機種 : Sanremo,  Expobar",
     "url": "https://shopee.tw/product/14094915/190327615"
   },
   {
@@ -599,18 +415,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "E61",
     "image": "/img/products/1980316386.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/2438385b92e316ddf50794952f548015",
-      "https://down-tw.img.susercontent.com/file/ced4c3664fa82e0473de0482df594770",
-      "https://down-tw.img.susercontent.com/file/54a7c6a81893834676d3f18e577da3d2",
-      "https://down-tw.img.susercontent.com/file/6754749bb616754682213f701ab972c3",
-      "https://down-tw.img.susercontent.com/file/52e19eff76c60028c5bb860af17c6ab2",
-      "https://down-tw.img.susercontent.com/file/4cfeac072a11a5d4eeb9197ce25c56a4"
-    ],
     "sold": 82,
     "rating": 5,
-    "ratingCount": 29,
-    "description": "不銹鋼分水濾網，不含墊圈。",
     "url": "https://shopee.tw/product/14094915/1980316386"
   },
   {
@@ -625,16 +431,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2369052516.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-825bc-mqd6ktzs1mha7e",
-      "https://down-tw.img.susercontent.com/file/7dd08717f6b5f7db8d9f4e17bda09c43",
-      "https://down-tw.img.susercontent.com/file/07d85e59a7bb9934bcce65a988dc15e5",
-      "https://down-tw.img.susercontent.com/file/719a5267454d1bfd848a4359e5563b2d"
-    ],
     "sold": 33,
     "rating": 4.9,
-    "ratingCount": 18,
-    "description": "半自動咖啡機 流量計的功能 \n可以設定/記憶  沖泡頭各個  按鍵 的 (出水量)",
     "url": "https://shopee.tw/product/14094915/2369052516"
   },
   {
@@ -649,13 +447,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/26162860274.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m0twiqqzjysnfc"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "咖啡機 磨豆機 適用",
     "url": "https://shopee.tw/product/14094915/26162860274"
   },
   {
@@ -670,14 +463,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/43771542345.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztm-mf3mqlh3ogem3e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztf-mf3mqlgyam1637"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "3.5uf",
     "url": "https://shopee.tw/product/14094915/43771542345"
   },
   {
@@ -692,16 +479,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/24478092913.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-luufphizsb7v74",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-luufphghvyrve9",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-luufphh1v5di96",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-luufphlhonhy8f"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "Gino 原廠",
     "url": "https://shopee.tw/product/14094915/24478092913"
   },
   {
@@ -716,15 +495,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/18608032394.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/b37c483103ff02c315464c4865d0fa89",
-      "https://down-tw.img.susercontent.com/file/4d931f24151a01cef08932a0b9e59e83",
-      "https://down-tw.img.susercontent.com/file/2b8debbbf9eafbab2d6efdd44ed145a8"
-    ],
     "sold": 12,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於 意式 磨豆機 220V",
     "url": "https://shopee.tw/product/14094915/18608032394"
   },
   {
@@ -739,16 +511,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/5157473870.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0q-mcwxmeulzegv18",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0g-mcwxmeulzeina9",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mcwxmeum0t1bd8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0p-mcwxmeum27lr1f"
-    ],
     "sold": 31,
     "rating": 5,
-    "ratingCount": 8,
-    "description": "清洗軟墊 ，不含沖泡把手",
     "url": "https://shopee.tw/product/14094915/5157473870"
   },
   {
@@ -763,16 +527,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Laspaziale",
     "image": "/img/products/15471262639.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/6707a6a92cb5c4b6ff4c289400f10378",
-      "https://down-tw.img.susercontent.com/file/005ae77af1f2acd1df329358b133f310",
-      "https://down-tw.img.susercontent.com/file/a3fbf8e3debc5f61cc636b16f7d65348",
-      "https://down-tw.img.susercontent.com/file/da0162c89a96dedab969bf4a533b03ed"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "厚度6.7mm",
     "url": "https://shopee.tw/product/14094915/15471262639"
   },
   {
@@ -787,14 +543,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Marcfi",
     "image": "/img/products/18076365963.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-lsu8njtearov2c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-mc96rktearov96"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於Marcfi",
     "url": "https://shopee.tw/product/14094915/18076365963"
   },
   {
@@ -809,13 +559,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Simonelli / Musica",
     "image": "/img/products/29290627809.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztg-mdzpc9mqxp8g04"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "Musica 適用",
     "url": "https://shopee.tw/product/14094915/29290627809"
   },
   {
@@ -830,13 +575,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gino",
     "image": "/img/products/29328032009.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk9-m6ueuymgftgk9a"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "透明視窗",
     "url": "https://shopee.tw/product/14094915/29328032009"
   },
   {
@@ -851,16 +591,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Quamar / M80 / T80",
     "image": "/img/products/6049073964.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/d34368404c198c493bb0ce7b167a514e",
-      "https://down-tw.img.susercontent.com/file/757ce579ed5cb92e4488246f7f71d11a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m0pj2pzqcw5v81",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasc-m0pj2pzqeaqb40"
-    ],
     "sold": 46,
     "rating": 5,
-    "ratingCount": 24,
-    "description": "本售價是 1組 含 2個刀盤。\n適用於：Quamar M80,T80, 定量\n                fiorenzato Doge\n刀盤外徑： 63mm, 平刀盤\n厚度： 9.5 mm",
     "url": "https://shopee.tw/product/14094915/6049073964"
   },
   {
@@ -875,16 +607,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/3878949760.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/25f2520acd41fee492093db2b96180e9",
-      "https://down-tw.img.susercontent.com/file/f8d7970015eb91422d9d513d854d041c",
-      "https://down-tw.img.susercontent.com/file/ea592169ba84edfd7b284db2bba589ec",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-8awhah9udqmv4b"
-    ],
     "sold": 7,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "內徑5.8公分",
     "url": "https://shopee.tw/product/14094915/3878949760"
   },
   {
@@ -899,13 +623,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Appia",
     "image": "/img/products/54260708046.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820ld-modktl4xv2mn36"
-    ],
     "sold": 4,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "APPIA 系列 適用\nAPPIA, APPIA 2, APPIA life",
     "url": "https://shopee.tw/product/14094915/54260708046"
   },
   {
@@ -920,15 +639,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/46710778195.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-moeuesmh8dmx24",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820li-moeuesmh6z2h01",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l8-moeuesmj6m0wbe"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於klub \n一組價（長短各一支）",
     "url": "https://shopee.tw/product/14094915/46710778195"
   },
   {
@@ -943,16 +655,8 @@ export const PRODUCTS: Product[] = [
     "material": "銅",
     "compatible": "Gino",
     "image": "/img/products/26186482218.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbke-m9mfmz93rnzt00",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-m9mfmz9nqurd58",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbke-m9mfmz9o6bjb56",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m9mfmz9nqvaf4d"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Gino茶機專用\n厚度0.7公分",
     "url": "https://shopee.tw/product/14094915/26186482218"
   },
   {
@@ -967,17 +671,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/9980411910.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lsnjgjee4aa0fe",
-      "https://down-tw.img.susercontent.com/file/febcf6f04426c88dddfffb675872e1f7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lwuqbgjjl9nq3c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lsnjgjda5wb6cf",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lsnjgjdu53ig06"
-    ],
     "sold": 26,
     "rating": 5,
-    "ratingCount": 9,
-    "description": "適用 Gino 咖啡機 \n                  茶機\n前面的貼紙標示 只有黑色 同照片上的",
     "url": "https://shopee.tw/product/14094915/9980411910"
   },
   {
@@ -992,17 +687,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23356806541.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lt1pntp7e39ka3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lt1pntp7fhu029",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lt1pntp7gweg07",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lt2bnqmm0zbmec",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lt2bnqmm2dw25d"
-    ],
     "sold": 21,
     "rating": 5,
-    "ratingCount": 10,
-    "description": "適用於 半自動咖啡機\n              電容器規格 6uf",
     "url": "https://shopee.tw/product/14094915/23356806541"
   },
   {
@@ -1017,15 +703,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/5704619607.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/6825976b25b76f23722ce73db8bfe4f9",
-      "https://down-tw.img.susercontent.com/file/01e987bdb50317a779aac89aea92b743",
-      "https://down-tw.img.susercontent.com/file/9a3cbf5f745bb041654f3bb2c0dd9a18"
-    ],
     "sold": 4,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "咖啡機",
     "url": "https://shopee.tw/product/14094915/5704619607"
   },
   {
@@ -1040,14 +719,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Appia",
     "image": "/img/products/24221417446.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l6-ml07hjhtg2683e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-ml07hjhm3zep9b"
-    ],
     "sold": 7,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "本墊圈適用於\nAppia 1/2/life \n外觀弧型",
     "url": "https://shopee.tw/product/14094915/24221417446"
   },
   {
@@ -1062,15 +735,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "CMA",
     "image": "/img/products/3800393936.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/34bec5cb782e7d0571625c463c6c16a7",
-      "https://down-tw.img.susercontent.com/file/2b24620b6069252eacd4fc2ab6bb1bd3",
-      "https://down-tw.img.susercontent.com/file/b1e81ee485f6032d48ec1268489f94ec"
-    ],
     "sold": 69,
     "rating": 5,
-    "ratingCount": 15,
-    "description": "適用機器: Astoria",
     "url": "https://shopee.tw/product/14094915/3800393936"
   },
   {
@@ -1085,14 +751,8 @@ export const PRODUCTS: Product[] = [
     "material": "銅",
     "compatible": "CMA / Astoria",
     "image": "/img/products/29202987910.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwkwfp9qx4c057",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwkwfp8myqzqa4"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "Gino 適用",
     "url": "https://shopee.tw/product/14094915/29202987910"
   },
   {
@@ -1107,13 +767,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Bezzera",
     "image": "/img/products/19860605393.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-raxcnkfjdljv64"
-    ],
     "sold": 16,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "Bezzera 適用\n厚度9.3mm",
     "url": "https://shopee.tw/product/14094915/19860605393"
   },
   {
@@ -1128,15 +783,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/45955319904.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-mjxkxh57h0jnef",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztg-mjxkxh57if43bb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztj-mjxkxh57jtojec"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "牙外徑12.9mm",
     "url": "https://shopee.tw/product/14094915/45955319904"
   },
   {
@@ -1151,15 +799,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "Marcfi",
     "image": "/img/products/22232740680.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-lozk3pp80qov16",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-31tn5np80qov49",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-ipzk3pp80qovbc"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 Marcfi 咖啡機",
     "url": "https://shopee.tw/product/14094915/22232740680"
   },
   {
@@ -1174,15 +815,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "Simonelli / Appia",
     "image": "/img/products/10366700512.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/58f4410cde2ea2a43fe7b176e9cd8064",
-      "https://down-tw.img.susercontent.com/file/6f3c97e60e270106af7a7d30bc558c5c",
-      "https://down-tw.img.susercontent.com/file/d785536bb11177a8814423258b37d833"
-    ],
     "sold": 12,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "外徑 57mm, 高 3.7mm",
     "url": "https://shopee.tw/product/14094915/10366700512"
   },
   {
@@ -1197,17 +831,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / Cimbali / Casadio / E98 / E98RE",
     "image": "/img/products/18676858020.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m66bnw427mlya6",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztg-mjxkxh58rdafe0",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasg-m66bnw42buza71",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m66bnw4291ueab",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkc-m8r291xc01tlc0"
-    ],
     "sold": 9,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "廠牌：Gicar \n流量計 上蓋\n適用於 Faema , Cimbali, Casadio \n安裝説明：\n1,請細看照片上的標示\n2,排針是備用，如果不需要排針，\n   插槽公母直接對接顏色相同 也可以",
     "url": "https://shopee.tw/product/14094915/18676858020"
   },
   {
@@ -1222,15 +847,8 @@ export const PRODUCTS: Product[] = [
     "material": "矽膠",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/19173793894.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-opn2dop24pnv67",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-q06x552b5pnv31",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-kukz552b5pnvef"
-    ],
     "sold": 4,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "厚度 1.78 mm\n內徑 28.3 mm\n矽膠品 白色",
     "url": "https://shopee.tw/product/14094915/19173793894"
   },
   {
@@ -1245,16 +863,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/16744096108.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/ddef0638909cf9a704f832017b0f3ffe",
-      "https://down-tw.img.susercontent.com/file/b0c29be194bfdcf5596197d81523b67a",
-      "https://down-tw.img.susercontent.com/file/3b0c9f9cfac806fb7e3ad738c65aa5c2",
-      "https://down-tw.img.susercontent.com/file/afa5fabb83abae78430cff178c0ba284"
-    ],
     "sold": 15,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "適用於 KLUB 茶機 咖啡機",
     "url": "https://shopee.tw/product/14094915/16744096108"
   },
   {
@@ -1269,15 +879,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/15814387998.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rase-m4gvb7u2r64gad",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasa-m4gvb7u2bpqj89",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasj-m4gvb7u2bpvk76"
-    ],
     "sold": 16,
     "rating": 5,
-    "ratingCount": 6,
-    "description": "KLUB適用",
     "url": "https://shopee.tw/product/14094915/15814387998"
   },
   {
@@ -1292,14 +895,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ODE",
     "image": "/img/products/112261884.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/5f6249374fa68f47347131626990bcef",
-      "https://down-tw.img.susercontent.com/file/c2c7e1dfe9dd298bc232d38607c6e894"
-    ],
     "sold": 17,
     "rating": 5,
-    "ratingCount": 6,
-    "description": "電壓 220V\n底座式 固定 沖泡電磁閥",
     "url": "https://shopee.tw/product/14094915/112261884"
   },
   {
@@ -1314,16 +911,8 @@ export const PRODUCTS: Product[] = [
     "material": "銅",
     "compatible": "Gino",
     "image": "/img/products/26603585605.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwwaw24apc12c8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-lwwaw24aqqlieb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lwwaw24anxgmbf",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lwwaw24as55y63"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nGino 咖啡機",
     "url": "https://shopee.tw/product/14094915/26603585605"
   },
   {
@@ -1338,15 +927,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/223336686.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-825aj-mqfke1dk7taj9e",
-      "https://down-tw.img.susercontent.com/file/3d8f6aed995acd8334170a4c9b94040b",
-      "https://down-tw.img.susercontent.com/file/c4e135b8e37e3ffded017812fa40793d"
-    ],
     "sold": 22,
     "rating": 5,
-    "ratingCount": 11,
-    "description": "半自動咖啡機專用/清洗濾杯 58內徑，適合填壓器 58mm",
     "url": "https://shopee.tw/product/14094915/223336686"
   },
   {
@@ -1361,14 +943,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/49452837338.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-mi1dzrcclj4622",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztk-mi1dzrcfohz5f6"
-    ],
     "sold": 7,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "厚度 1.2mm\n功能：固定濾杯，\n            填壓器在做下壓粉餅動作時，不會滑動.\n            當萃取完成後，在渣桶邊敲粉渣時，防止濾杯掉落",
     "url": "https://shopee.tw/product/14094915/49452837338"
   },
   {
@@ -1383,18 +959,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / Epoca / Cimbali",
     "image": "/img/products/11627314727.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/6b893ecabec9e4adb1f7a2252a5360d4",
-      "https://down-tw.img.susercontent.com/file/ed2ea8b01330b4c969af109f0e388b65",
-      "https://down-tw.img.susercontent.com/file/b8a7bfb4a678efce513d89e8ed5a79e3",
-      "https://down-tw.img.susercontent.com/file/b6049653647952f2d16d8c36fbcec171",
-      "https://down-tw.img.susercontent.com/file/ab4956239072f4ddd0a95b2320945b63",
-      "https://down-tw.img.susercontent.com/file/43a22bd91f501c51580ca116dbee23f7"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "義大利 製造\n長度 ：150-200 公分\n有 6分內牙 固定的接頭 連結機器 排水口\n適用： Cimbali Faema Rancilio Promac 半自動咖啡機",
     "url": "https://shopee.tw/product/14094915/11627314727"
   },
   {
@@ -1409,15 +975,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/28286286727.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m9guwvyqjmqv6a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk8-m9guwvyq45yxe2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-m9guwvyq46hz12"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於\nCASA KLUB \n放茶品的濾口比較淺",
     "url": "https://shopee.tw/product/14094915/28286286727"
   },
   {
@@ -1432,14 +991,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Faema / Casadio",
     "image": "/img/products/41570919320.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztc-mf0utl7ochl464",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztp-mf0utl7m8mx887"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "厚度 9mm （0.9公分）",
     "url": "https://shopee.tw/product/14094915/41570919320"
   },
   {
@@ -1454,15 +1007,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23101758410.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-d3v0fg05zziv48",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-k9d3lk05zziv0b",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-h0f0ni05zziv21"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用于 磨豆機\n單位： 16uf",
     "url": "https://shopee.tw/product/14094915/23101758410"
   },
   {
@@ -1477,14 +1023,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/6294960765.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-ioyzlna9bjlv7f",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-shxy0oa9bjlv1e"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "插件4個，只要插2個即可。 功能一樣",
     "url": "https://shopee.tw/product/14094915/6294960765"
   },
   {
@@ -1499,15 +1039,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/20419270309.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/76b9fcd3c656fce3b93ae25d0a92b8e8",
-      "https://down-tw.img.susercontent.com/file/76359fdbfee81994d89d84c5fd719dc6",
-      "https://down-tw.img.susercontent.com/file/7c877f06217d084cb9ba0905d86abd70"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於 Gino",
     "url": "https://shopee.tw/product/14094915/20419270309"
   },
   {
@@ -1522,15 +1055,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Mazzer",
     "image": "/img/products/1413483080.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/d356b440f8b2033a379b540776b7f155",
-      "https://down-tw.img.susercontent.com/file/fdea1087da59400eeabc31d043bb03e0",
-      "https://down-tw.img.susercontent.com/file/259c5f7cfc977884836dcdcd8b7f6395"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "本價格:1組 950元，一組2片，\n\n刀片方向順時間轉動，\n\n規格:64mm 外徑*37 內徑*厚度 8.4\n\n適用磨豆機: Mazzer super jolly, \n\n產品材質含有 鋼鐵 的合金鋼成份， 表面偶而有點鐵銹屬於正常現象，本商品非原廠，可能規格會有些差異。特此說明。",
     "url": "https://shopee.tw/product/14094915/1413483080"
   },
   {
@@ -1545,14 +1071,8 @@ export const PRODUCTS: Product[] = [
     "material": "矽膠",
     "compatible": "Reneka",
     "image": "/img/products/27245091049.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mpr4q34so4ctc3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lg-mpr4q34spix99d"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "矽膠材質\n適用於 Reneka Viva",
     "url": "https://shopee.tw/product/14094915/27245091049"
   },
   {
@@ -1567,16 +1087,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ULKA",
     "image": "/img/products/18013822370.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lvqu7fohy28ie4",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lvqu7fohv93m78",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-lvqu7fohwno2f5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lvqu7fohzgsyae"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 5,
-    "description": "適用於：電壓220V \n               振盪幫浦 ULKA MODEL E\n               TYPE EX5 48W",
     "url": "https://shopee.tw/product/14094915/18013822370"
   },
   {
@@ -1591,16 +1103,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Appia",
     "image": "/img/products/42402861379.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-magdd1ohx74of7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkd-magdd1qpvcnq29",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk0-magdd1ohx712cd",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkc-magdd1mtzmu0ff"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nAppia 半自動咖啡機",
     "url": "https://shopee.tw/product/14094915/42402861379"
   },
   {
@@ -1615,15 +1119,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Rancilio / Epoca",
     "image": "/img/products/28312699269.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasg-m0qrj0rm06avbd",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m0qrj0rlxd5z83",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasd-m0qrj0rlyrqfbd"
-    ],
     "sold": 7,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "Rancilio 適用\n材料：塑膠材質",
     "url": "https://shopee.tw/product/14094915/28312699269"
   },
   {
@@ -1638,17 +1135,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Parker",
     "image": "/img/products/1916156951.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-ltuw5dwm6hej31",
-      "https://down-tw.img.susercontent.com/file/cfac11dd7ac22662c7862549bb0de853",
-      "https://down-tw.img.susercontent.com/file/7dfd1e9249f4b349be2d7ca18861098a",
-      "https://down-tw.img.susercontent.com/file/4a177874345addd960293675a8ea6c69",
-      "https://down-tw.img.susercontent.com/file/368f68397b6ce6e651726196ef14ab53"
-    ],
     "sold": 18,
     "rating": 5,
-    "ratingCount": 8,
-    "description": "適用:半自動咖啡機 專用\n         廠牌： Parker \n         底座型 3向 沖泡電磁閥\n         220 V, 以上價格 未稅",
     "url": "https://shopee.tw/product/14094915/1916156951"
   },
   {
@@ -1663,15 +1151,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "F64E",
     "image": "/img/products/28012641261.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m0pj2pzq8ogjea",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m0pj2pzqa30z86",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m0pj2pzqbhlf21"
-    ],
     "sold": 13,
     "rating": 4.9,
-    "ratingCount": 9,
-    "description": "F64E 適用",
     "url": "https://shopee.tw/product/14094915/28012641261"
   },
   {
@@ -1686,18 +1167,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "La Marzocco",
     "image": "/img/products/41467889891.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztn-meck1huckykge3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztm-meck1hucnrpc19",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztf-meck1hucmd4wf1",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81zto-meck1hucgqv4e4",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81zte-meck1huci5fk3b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztg-meck1hucjk00ae"
-    ],
     "sold": 10,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Lamszocco",
     "url": "https://shopee.tw/product/14094915/41467889891"
   },
   {
@@ -1712,18 +1183,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/933711014.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lvns1u97ui8n92",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lvns1u97vwt397",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lvns1u97xbdj1b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lvns1u97t3o71b",
-      "https://down-tw.img.susercontent.com/file/8e3541e70664b030bd4897b8568e7e45",
-      "https://down-tw.img.susercontent.com/file/5a3bb6981d24366b36458f3bf9b5ef7f"
-    ],
     "sold": 35,
     "rating": 5,
-    "ratingCount": 19,
-    "description": "正港 Made in Italy\n適合 [ 雙孔/3孔 半自動咖啡機] \n200L/H\n附 3分轉接頭。\n如果需要 4分轉接頭，請用聊聊 詢問。",
     "url": "https://shopee.tw/product/14094915/933711014"
   },
   {
@@ -1738,17 +1199,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/22842658328.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-lgw5ujpgilnt6d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk1-m90y5c6dth461d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul9-lgw5ujnsl1kcbb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-lgw5ujock84p27",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-lgw5ujnsl1d50f"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "適用於\nGino 咖啡機 茶機 排水盒",
     "url": "https://shopee.tw/product/14094915/22842658328"
   },
   {
@@ -1763,16 +1215,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gicar",
     "image": "/img/products/2496313088.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/c918656ac09455965cda087cf8630883",
-      "https://down-tw.img.susercontent.com/file/18d5644c695f261aebb8e2800c623800",
-      "https://down-tw.img.susercontent.com/file/7ee02c5abf8cb3e5fac419a3ea847919",
-      "https://down-tw.img.susercontent.com/file/5d2f0e04abdf088d4affc9ff73bb32c7"
-    ],
     "sold": 22,
     "rating": 4.9,
-    "ratingCount": 12,
-    "description": "半自動咖啡機專用",
     "url": "https://shopee.tw/product/14094915/2496313088"
   },
   {
@@ -1787,19 +1231,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "La Marzocco",
     "image": "/img/products/18177745561.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lf69xin723anf5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-lf69mzw1bih327",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-lf69mzy988xb8b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukz-lf69mzw1bhv3c1",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul3-lf69mzxf9grzea",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lf69mzwlaomne9",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-lf69mzzn68g768"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "請註明需要的厚度\n有2種規格：\n72*55* 7.1- 9\n72*55* 6.1- 7.7",
     "url": "https://shopee.tw/product/14094915/18177745561"
   },
   {
@@ -1814,14 +1247,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/25663542120.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lrqp1s98jytkf8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lrqp1s98jydu08"
-    ],
     "sold": 13,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "Gino 專用\n適用於 咖啡機，茶機，蒸氣熱水機",
     "url": "https://shopee.tw/product/14094915/25663542120"
   },
   {
@@ -1836,15 +1263,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Lelit / Bianca",
     "image": "/img/products/24313703002.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lrs9y3eqgv0o56",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lrs9y3eqe1vs3c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lrs9y3eqfgg83a"
-    ],
     "sold": 6,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "Lelit Bianca 單孔機適用",
     "url": "https://shopee.tw/product/14094915/24313703002"
   },
   {
@@ -1859,14 +1279,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23223952271.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-k70a5rvznhnvf8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-760a5rvznhnv4d"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 電壓 220V ,\n      單位 10uf",
     "url": "https://shopee.tw/product/14094915/23223952271"
   },
   {
@@ -1881,20 +1295,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/11108639782.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-8752glk0eumv6c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-8iyobjtqkumvb0",
-      "https://down-tw.img.susercontent.com/file/231889c4282a63b9840afdf46826b799",
-      "https://down-tw.img.susercontent.com/file/c9d4e2101251621613a22e15d4e30f04",
-      "https://down-tw.img.susercontent.com/file/7d7f4b9986d1babb3b99978938aea41a",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-825bc-mqmpnas6i51d45",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-vhpz5mk0eumv81",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-b7uw3ok0eumv07"
-    ],
     "sold": 11,
     "rating": 5,
-    "ratingCount": 7,
-    "description": "咖啡機在加熱過程 為了保持內部壓力的恆壓，\n會透過 均壓閥(洩壓閥)作調解，因此會 斷斷續續 釋放蒸氣 出來。也因此會有蒸氣的水份 噴濺 在鍋爐表面。 \n換裝這款均壓閥 會透過上面 排放口再接管子  順流排出。 保持 鍋爐附近的電子零件不會沾水短路.\n提醒您：螺牙（外牙）是 2分",
     "url": "https://shopee.tw/product/14094915/11108639782"
   },
   {
@@ -1909,16 +1311,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/42006588802.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztm-mh9zy99h95agf5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0o-mbkn6ko5owryee",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0s-mbkn6ko59gj2ad",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0r-mbkn6ko59geh06"
-    ],
     "sold": 4,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nKLUB茶把手\n外徑29.5mm",
     "url": "https://shopee.tw/product/14094915/42006588802"
   },
   {
@@ -1933,17 +1327,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / Cimbali / Casadio",
     "image": "/img/products/21760524834.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-iggh6dmdjkjvab",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-cmzdhhmdjkjv55",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-6jo67lmdjkjv13",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-jpgc420h4kjv25",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-sr89a50h4kjv61"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "流量計組\n適用於：Faema, Cimbali, Casadio",
     "url": "https://shopee.tw/product/14094915/21760524834"
   },
   {
@@ -1958,15 +1343,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/17473020994.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/d85a0b767f0411257c200b05badcdf62",
-      "https://down-tw.img.susercontent.com/file/4314865936be7764f70dcf2b077601cd",
-      "https://down-tw.img.susercontent.com/file/fe02b1fefee7cd19cbd3f346c3ffcd5b"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "PFTE 材質",
     "url": "https://shopee.tw/product/14094915/17473020994"
   },
   {
@@ -1981,14 +1359,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Expobar",
     "image": "/img/products/19469554655.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-d66oomdx1elv99",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-3ljnsndx1elvbb"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 Expobar",
     "url": "https://shopee.tw/product/14094915/19469554655"
   },
   {
@@ -2003,15 +1375,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "F64E / M80",
     "image": "/img/products/22372546034.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul9-lir18v7dwvnme7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-lir18v86mpmq54",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-lir18v7cmj0451"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於：\nT80 M80 F64E fiorenzato磨豆機\n12.5uf",
     "url": "https://shopee.tw/product/14094915/22372546034"
   },
   {
@@ -2026,14 +1391,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/27933453573.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkc-m8la580by6itf2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m8la57z7zt7k27"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於 Gino",
     "url": "https://shopee.tw/product/14094915/27933453573"
   },
   {
@@ -2048,17 +1407,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Faema / E61",
     "image": "/img/products/23082162105.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lmef339xhml7ef",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lubtwzh88a2h82",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lmef339x4zh7fb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lmef33b13d7dab",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lubtwzh86vi1fd"
-    ],
     "sold": 46,
     "rating": 5,
-    "ratingCount": 11,
-    "description": "沖泡頭墊圈  厚度9mm",
     "url": "https://shopee.tw/product/14094915/23082162105"
   },
   {
@@ -2073,13 +1423,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Faema",
     "image": "/img/products/20176912451.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul5-lgk3ngxnaqsq40"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Faema 適用\n外徑 57mm\n內徑 43mm\n厚度 3mm\n材質 鐵氟龍",
     "url": "https://shopee.tw/product/14094915/20176912451"
   },
   {
@@ -2094,15 +1439,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/29002010375.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m2aju9v6k3dm81",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasd-m2aju9x4wq1199",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras9-m2aju9xegufuf0"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "3分 外螺牙接頭",
     "url": "https://shopee.tw/product/14094915/29002010375"
   },
   {
@@ -2117,16 +1455,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "900N",
     "image": "/img/products/29012060047.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rash-m0gsevvbnljn52",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasj-m0gsevvb84x34d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasd-m0qrj0rlvylj95",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m0qrj0t9qq4z17"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於 900N",
     "url": "https://shopee.tw/product/14094915/29012060047"
   },
   {
@@ -2141,15 +1471,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/22149767733.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul7-ljrp7nukiabqee",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul3-ljrp7nv4hgzxf1",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-ljrp7nuaioul35"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "雙頭3分接頭",
     "url": "https://shopee.tw/product/14094915/22149767733"
   },
   {
@@ -2164,14 +1487,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Rancilio / Silvia",
     "image": "/img/products/21588686133.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-lh5pvpaa8fn044",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-lh5pvpby5zqhbd"
-    ],
     "sold": 11,
     "rating": 5,
-    "ratingCount": 5,
-    "description": "厚度 8.5mm\n適用於 Rancilio Siliva",
     "url": "https://shopee.tw/product/14094915/21588686133"
   },
   {
@@ -2186,18 +1503,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/21081384750.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul3-linqllqbtbck65",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-linqllrzpgzm07",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkd-m6ueuymgh810f7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul7-linqllqbrws4f4",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-linqllr5qoxgbc",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-linqllr6656c24"
-    ],
     "sold": 7,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於 咖啡機\n電壓 220V 16A",
     "url": "https://shopee.tw/product/14094915/21081384750"
   },
   {
@@ -2212,15 +1519,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Rancilio / Promac",
     "image": "/img/products/18991849628.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lo6nj58z14jmb7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lkekjiu40jvad2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lo6nj58zgksi34"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "本批次數量5個\n3分外牙",
     "url": "https://shopee.tw/product/14094915/18991849628"
   },
   {
@@ -2235,16 +1535,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/24429055761.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lv0z9ty9aj3d4f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lv0z9ty9pzw88e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lv0z9ty9pzc92c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lv0z9ty9ajncc5"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "上指針（鍋爐壓力）\n下指針（沖泡壓力）\n錶身直徑 6公分\n錶外框 6.5公分",
     "url": "https://shopee.tw/product/14094915/24429055761"
   },
   {
@@ -2259,15 +1551,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "KLUB",
     "image": "/img/products/50102441116.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztn-mhrcays7s6pxfb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-mhrcaysv9slee4",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztc-mhrcayuprcatb9"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Klub 適用",
     "url": "https://shopee.tw/product/14094915/50102441116"
   },
   {
@@ -2282,13 +1567,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/25761543290.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lr4a7uwvlma04f"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "Gino 原廠 茶把手 濾網",
     "url": "https://shopee.tw/product/14094915/25761543290"
   },
   {
@@ -2303,15 +1583,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Simonelli / Musica",
     "image": "/img/products/3900395481.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/7fa6bd2df8d132ec104e77c075952c84",
-      "https://down-tw.img.susercontent.com/file/a8024245426c09a16277707f7cc1f478",
-      "https://down-tw.img.susercontent.com/file/59e0678a05800cc4978878f0418cd0b3"
-    ],
     "sold": 6,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Simonelli 原廠\n墊圈 規格 ：71 * 56.5 * 7",
     "url": "https://shopee.tw/product/14094915/3900395481"
   },
   {
@@ -2326,17 +1599,8 @@ export const PRODUCTS: Product[] = [
     "material": "銅",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/9616129501.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/79e2ae0f26ebb1b14d0cb860d4e460bc",
-      "https://down-tw.img.susercontent.com/file/3cda7691a827a9f7ba417e216688f0bb",
-      "https://down-tw.img.susercontent.com/file/81a48e0ad17f66504d33ff42f0c82795",
-      "https://down-tw.img.susercontent.com/file/624d29161c3b858a2aa084ef1fa6c8f2",
-      "https://down-tw.img.susercontent.com/file/7c07c5ba3900dbea9be2cfeec8f70790"
-    ],
     "sold": 12,
     "rating": 5,
-    "ratingCount": 6,
-    "description": "ULKA  Model E Type EX5\n110~120V\n41 W\n銅進水管",
     "url": "https://shopee.tw/product/14094915/9616129501"
   },
   {
@@ -2351,17 +1615,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "E98 / E98RE",
     "image": "/img/products/27675595752.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasd-m60vnitdemf539",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasa-m60vnitdhfk133",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m60vnitdd7up95",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rash-m60vnitdbtn115",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m60vnitdg0zl1e"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\n Casadio Faema Cimbali \n材質：金屬 \n內牙 螺牙直徑10mm （M10)",
     "url": "https://shopee.tw/product/14094915/27675595752"
   },
   {
@@ -2376,15 +1631,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Rancilio / Promac",
     "image": "/img/products/8255798618.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/1f9fa6bcc358c2af6f76d0541bd35260",
-      "https://down-tw.img.susercontent.com/file/83e7f6f14fd3ef2edc7f938d6d3a72b0",
-      "https://down-tw.img.susercontent.com/file/ba62db541fbb655c30439253a0d0cd75"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用：Rancilio, Promac\n流量計上蓋 附 Led 燈",
     "url": "https://shopee.tw/product/14094915/8255798618"
   },
   {
@@ -2399,15 +1647,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/6636194036.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/318e0c7f75279a945ea579c07d33ef2c",
-      "https://down-tw.img.susercontent.com/file/008d09bfd71c493620fc78d7e373f340",
-      "https://down-tw.img.susercontent.com/file/fa119034b5c53e5dcda735860f90f4d9"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "2分接頭",
     "url": "https://shopee.tw/product/14094915/6636194036"
   },
   {
@@ -2422,13 +1663,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gino",
     "image": "/img/products/29828028400.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk3-m6ueuymgeew4ad"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "透明視窗",
     "url": "https://shopee.tw/product/14094915/29828028400"
   },
   {
@@ -2443,13 +1679,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "KLUB / Gino",
     "image": "/img/products/22152274555.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lkrrgftwejytbc"
-    ],
     "sold": 14,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "Gino 公司貨",
     "url": "https://shopee.tw/product/14094915/22152274555"
   },
   {
@@ -2464,14 +1695,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Compak / Wega",
     "image": "/img/products/22026147874.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-q2ny7luvvsnv94",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23020-1a9w5nuvvsnv1f"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "刀盤 尺寸 63*38*9\n右轉",
     "url": "https://shopee.tw/product/14094915/22026147874"
   },
   {
@@ -2486,16 +1711,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/18389956299.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul5-li5gdihiogxgd8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-li5gdihso2b81c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukw-li5gdih8ovjo24",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-li5gdiht3ik435"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "請注意\n電壓220V\n孔的直徑2.5公分\n插槽有4個插件",
     "url": "https://shopee.tw/product/14094915/18389956299"
   },
   {
@@ -2510,15 +1727,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23584230563.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-ln5k87iyvtzta7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-ln5k87iyufa77f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-ln5k87kmrzkv70"
-    ],
     "sold": 6,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於孔的 尺寸\n長30mm\n寬 22\n耐電壓 220V * 16A",
     "url": "https://shopee.tw/product/14094915/23584230563"
   },
   {
@@ -2533,15 +1743,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Parker",
     "image": "/img/products/2473170896.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lb-moovm5ikqubwdf",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l9-moovm5ndob9q9d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lc-moovm5i4xybkfd"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Parker 220 V，連接線長 25公分\n線圈 編號 : YB09\n插頭：一字型 扁插頭\n適用機器:Expobar / Sorrento / VFA /fiorenzato 。。。。",
     "url": "https://shopee.tw/product/14094915/2473170896"
   },
   {
@@ -2556,17 +1759,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema",
     "image": "/img/products/25969147146.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lsw3pz2741qq3f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lsw3pz2h0tzm29",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lsw3pz2718luf5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-lsw3pz27gouq1a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lsw3pz272n6a0a"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Faema 適用",
     "url": "https://shopee.tw/product/14094915/25969147146"
   },
   {
@@ -2581,17 +1775,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Mazzer",
     "image": "/img/products/12251885220.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/9682e1c197b150ef52d562fe1d31e27c",
-      "https://down-tw.img.susercontent.com/file/7f49bf0c05579948fd25ace0b0196776",
-      "https://down-tw.img.susercontent.com/file/7031a744286fb7dcfbe6760a2eee822a",
-      "https://down-tw.img.susercontent.com/file/3d9193aeecf524a8d8a9729c69407e5d",
-      "https://down-tw.img.susercontent.com/file/cc6699834adc171421538770456a99c8"
-    ],
     "sold": 4,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "全新品\n原廠 豆桶 容量 320公克\n含豆桶蓋×1",
     "url": "https://shopee.tw/product/14094915/12251885220"
   },
   {
@@ -2606,15 +1791,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/18779162085.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lz19p6bd4fmm2c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lg0ifufr13whf5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-lg0ifufr13xmad"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於 Gino 茶機 咖啡機",
     "url": "https://shopee.tw/product/14094915/18779162085"
   },
   {
@@ -2629,17 +1807,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/1411149207.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/e44bb9c00c498778c228c45cc2049ebe",
-      "https://down-tw.img.susercontent.com/file/fd7e9be0e28c2760fc2a474c84fbe954",
-      "https://down-tw.img.susercontent.com/file/40f2156f377992a144d30a9e3a62aa63",
-      "https://down-tw.img.susercontent.com/file/cd7f05ca01cd2e307dfc7195c11cf36f",
-      "https://down-tw.img.susercontent.com/file/8afdbb43470cb2bf4fc4274b5864bcf5"
-    ],
     "sold": 3,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "本賣價 一組 4個 \n咖啡機專用: Astoria,SanRemo,Wega\n螺絲直徑 9.8mm <M10>\n基座 外徑 50mm\n基座 <不計螺絲長度> 總高 56~64 mm",
     "url": "https://shopee.tw/product/14094915/1411149207"
   },
   {
@@ -2654,15 +1823,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema",
     "image": "/img/products/20669551522.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-csvp7l3uzelv5c",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-gfkvai3uzelv33",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-0xxuoj3uzelv99"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 Faema",
     "url": "https://shopee.tw/product/14094915/20669551522"
   },
   {
@@ -2677,18 +1839,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Simonelli / Appia",
     "image": "/img/products/14734326932.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/9f4cc52ac4e39f69e4be1ba368c0d940",
-      "https://down-tw.img.susercontent.com/file/832ee1b0972fa67dfd2ecb098a2ca7dc",
-      "https://down-tw.img.susercontent.com/file/df4e66f13d57c8f21b482ce058c99c64",
-      "https://down-tw.img.susercontent.com/file/cb616d7f71c78a2e30ce6e5495bc66a0",
-      "https://down-tw.img.susercontent.com/file/313669cd01c101c54cbb0e659eb363c8",
-      "https://down-tw.img.susercontent.com/file/b949e82027dbd9c89a3d78b418515f11"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於 Appia 蒸氣管 熱水管 止水墊\n適用於 Nuova Simonelli Appia",
     "url": "https://shopee.tw/product/14094915/14734326932"
   },
   {
@@ -2703,14 +1855,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Lelit",
     "image": "/img/products/19885499798.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-ln3okib48vx594",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-ln3okib4aahlcf"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nLelit",
     "url": "https://shopee.tw/product/14094915/19885499798"
   },
   {
@@ -2725,15 +1871,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/1618080892.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/ce7ce30cb490a46e4409ec6c4a10f7a7",
-      "https://down-tw.img.susercontent.com/file/cab61c3d6e58593334d75b338f09cc3a",
-      "https://down-tw.img.susercontent.com/file/66f3ca7975f2aca04c5ddd72d02a8b0f"
-    ],
     "sold": 6,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "電壓：220V, \n廠牌 :Parker /線圈 ZB09",
     "url": "https://shopee.tw/product/14094915/1618080892"
   },
   {
@@ -2748,16 +1887,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Casadio / E98 / E98RE",
     "image": "/img/products/7985231409.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/37e2439118533a951c956ce15cd7d14c",
-      "https://down-tw.img.susercontent.com/file/0c3c69ea9363f77881c7b055d4482c20",
-      "https://down-tw.img.susercontent.com/file/0f711d409651e89d261a1d111389b8d8",
-      "https://down-tw.img.susercontent.com/file/bf80d9b35e994693c426c487c7fa18c3"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用：E98RE Casadio\n含運費",
     "url": "https://shopee.tw/product/14094915/7985231409"
   },
   {
@@ -2772,14 +1903,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "飛馬 / 900N",
     "image": "/img/products/28853873838.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lx0xwr4tn7e886",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lx0xwr4tolyo3d"
-    ],
     "sold": 6,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於\n楊家 飛馬 900N-TQ\n定量磨豆機",
     "url": "https://shopee.tw/product/14094915/28853873838"
   },
   {
@@ -2794,14 +1919,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ULKA",
     "image": "/img/products/16768343404.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/ae285b6c030f234a793805a56c07cd02",
-      "https://down-tw.img.susercontent.com/file/a569a6693c7519739cdfd9ac07e28836"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用的電壓：110V - 120V",
     "url": "https://shopee.tw/product/14094915/16768343404"
   },
   {
@@ -2816,15 +1935,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "La Marzocco",
     "image": "/img/products/19163413650.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-ccusuxmhf3jv20",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-v72t1wmhf3jv5c",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22110-a11tyymhf3jve0"
-    ],
     "sold": 4,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於 Lamarzocco\n請注意\n流量計的  \"-\" 和 “0” 的位置 和 一般通用版的位置不一樣",
     "url": "https://shopee.tw/product/14094915/19163413650"
   },
   {
@@ -2839,13 +1951,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/25413825103.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lru67cdebr9u94"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "GINO 專用 沖泡壓力錶",
     "url": "https://shopee.tw/product/14094915/25413825103"
   },
   {
@@ -2860,16 +1967,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "Bezzera",
     "image": "/img/products/53100818635.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztf-mgod5ulkp3wo5b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztg-mjeyr1f0ho1z1b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztl-mgod5uluq3uw83",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81zto-mgod5uq96g3u59"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於：\nBezzera B2000, Ellisse\n分水網 *1",
     "url": "https://shopee.tw/product/14094915/53100818635"
   },
   {
@@ -2884,15 +1983,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB / Gino",
     "image": "/img/products/23271630690.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m237pzpcjo1x36",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasi-m237pzpci9hh9d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m237pzpcl2md66"
-    ],
     "sold": 27,
     "rating": 4.9,
-    "ratingCount": 18,
-    "description": "適用於 ：\nKlub \nGino",
     "url": "https://shopee.tw/product/14094915/23271630690"
   },
   {
@@ -2907,15 +1999,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/14779746070.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/0661e0acba5ba6533988b01d8f740ec7",
-      "https://down-tw.img.susercontent.com/file/f5c73992b5740b4f019d58d234eb2c90",
-      "https://down-tw.img.susercontent.com/file/dfd8e0bf2e6cede93ef940b77bc71e92"
-    ],
     "sold": 9,
     "rating": 5,
-    "ratingCount": 8,
-    "description": "KLUB 適用\n進水 入鍋爐 防熱水逆流 功能\n調解 馬達幫浦 在沖壓時 維持 恆壓狀態",
     "url": "https://shopee.tw/product/14094915/14779746070"
   },
   {
@@ -2930,16 +2015,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "La Marzocco",
     "image": "/img/products/22238364033.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukz-lfhv6by5xkh652",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukx-lfhv6byzwc2551",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul2-lfhv6bztv4rua8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul7-lfhv6c0xthql69"
-    ],
     "sold": 3,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Lamszocco 適用",
     "url": "https://shopee.tw/product/14094915/22238364033"
   },
   {
@@ -2954,15 +2031,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Lelit / Expobar / Rocket",
     "image": "/img/products/28325795477.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m63ffhxwgqwmfb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m63ffhxcx11ybb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasj-m63ffhxchk5274"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "2分（1/4”）螺牙接頭",
     "url": "https://shopee.tw/product/14094915/28325795477"
   },
   {
@@ -2977,15 +2047,8 @@ export const PRODUCTS: Product[] = [
     "material": "矽膠",
     "compatible": "CMA / Astoria",
     "image": "/img/products/25674912764.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lu8wzqrz8vlle4",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lu8wzqrzaa614c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lud9zsmlxzylcd"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "基座墊圈 ：材質 矽膠 耐高溫",
     "url": "https://shopee.tw/product/14094915/25674912764"
   },
   {
@@ -3000,16 +2063,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / Cimbali / Casadio",
     "image": "/img/products/18169645307.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-jrlq3livgglv80",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-o7a59zmogglv8a",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-sd3z72mogglvc1",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-cwnwujivgglv22"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於 CASADIO FAEMA CIMBALI 磨豆機\n機款：ENEA",
     "url": "https://shopee.tw/product/14094915/18169645307"
   },
   {
@@ -3024,15 +2079,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23971301185.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-li5gdihipvhw22",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-li5gdihira2c18",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-li5gdihisoms5d"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用\n220V 16A\n孔的寬度 2.2公分\n            長 3公分",
     "url": "https://shopee.tw/product/14094915/23971301185"
   },
   {
@@ -3047,18 +2095,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ULKA",
     "image": "/img/products/9191512608.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/b5bf03b158a7a709d33dd2437236bcbd",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztn-mj27l41wm3nma9",
-      "https://down-tw.img.susercontent.com/file/e75f5f0b7d175936c19544ca8e1fb1e0",
-      "https://down-tw.img.susercontent.com/file/b0428c3282f74c5e1a4b9a0c4df56838",
-      "https://down-tw.img.susercontent.com/file/413cae9ae35456d59ba26aa2aab5213b",
-      "https://down-tw.img.susercontent.com/file/8e9a09c69f0aef51a97f83de52a23c36"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "ULKA 震動式幫浦\n適用：110V, 52W",
     "url": "https://shopee.tw/product/14094915/9191512608"
   },
   {
@@ -3073,13 +2111,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/51209939376.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820ld-mnv27gx29mh4b9"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "鋼絲粗度 直徑1.2mm",
     "url": "https://shopee.tw/product/14094915/51209939376"
   },
   {
@@ -3094,17 +2127,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gicar / Lanna",
     "image": "/img/products/10837681656.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/ecf09015e69ba6337bf05cb566c91ac5",
-      "https://down-tw.img.susercontent.com/file/cb68da416b5b60052b2afb56592d1c62",
-      "https://down-tw.img.susercontent.com/file/4111fc372e01a2962342ab8fc0df2467",
-      "https://down-tw.img.susercontent.com/file/31f5dc7490e32436b9470613011a339c",
-      "https://down-tw.img.susercontent.com/file/22ebf1116f8b4a86d676144b8fb665e4"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "半自動咖啡機 適用：iberital  Lanna myway\n5按鍵 16pin\n請確認 背面有 Gicar code 9.9.09.50G",
     "url": "https://shopee.tw/product/14094915/10837681656"
   },
   {
@@ -3119,21 +2143,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2477527705.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/f6b35c103b9678d6f6f934e5a33f312e",
-      "https://down-tw.img.susercontent.com/file/dd9dc2b6487b1034a2a111bf578305f0",
-      "https://down-tw.img.susercontent.com/file/4624ddc5bc024578bf97125955ec60ee",
-      "https://down-tw.img.susercontent.com/file/412946e010051aa8f23a9c6d36f08da0",
-      "https://down-tw.img.susercontent.com/file/474bf75a83b9a713defc988ac390d602",
-      "https://down-tw.img.susercontent.com/file/6989aefd7140f1b8a6dd1801db34398a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-o6po38mvr9lv38",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-optcnlywr9lv5e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-17yx1eyxr9lv37"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用機種: faema cimbali \n製造廠牌有 : \nNUERT 適合 E98 接3分外牙鋼絲管，直接鎖入幫浦頭\n Procon  適合用 轉接頭",
     "url": "https://shopee.tw/product/14094915/2477527705"
   },
   {
@@ -3148,17 +2159,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/42311805638.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0l-md42p2ipfz9be5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0m-md42p2knd4xrdb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0m-md42p2knsl6n23",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0s-md8d6tq72c7408",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0u-md8d6tq73qrk6d"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "茶包濾網座：\n1, 適用於Klub茶機專用\n2, 放 茶品的濾口比較深\n    跟散茶濾網座不一樣",
     "url": "https://shopee.tw/product/14094915/42311805638"
   },
   {
@@ -3173,20 +2175,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "Rancilio",
     "image": "/img/products/6117078324.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/10ab8caf88d14f811e447e09ff0eed96",
-      "https://down-tw.img.susercontent.com/file/15eec398d33e87911f9c2cd68ac569e2",
-      "https://down-tw.img.susercontent.com/file/851c4c365eb9f84ef747037ad048e5d8",
-      "https://down-tw.img.susercontent.com/file/989e9c80402a256b7d2bf6434fe3d871",
-      "https://down-tw.img.susercontent.com/file/da9293af76f65f8fee85184a2d1d553c",
-      "https://down-tw.img.susercontent.com/file/1dd03f26132de833f030c308b5ea0473",
-      "https://down-tw.img.susercontent.com/file/1d3c2be13624420db9e8168cf50449fd",
-      "https://down-tw.img.susercontent.com/file/20a7fe7f33bd2a52bf266593c0f92cc0"
-    ],
     "sold": 7,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "450元/1片\n適用機器：Epoca \n不銹鋼板  雷射切割 厚3mm\n耐操 耐高溫 好用不變形",
     "url": "https://shopee.tw/product/14094915/6117078324"
   },
   {
@@ -3201,15 +2191,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/18879765495.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul5-lgq9lfw0ipm125",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lgq9lfw0k4do69",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-lgq9lfw0y5uxf8"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 \nLamarzocco 沖泡頭分水網固定螺絲",
     "url": "https://shopee.tw/product/14094915/18879765495"
   },
   {
@@ -3224,16 +2207,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Sirai / Asco",
     "image": "/img/products/26485886348.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lf-mkejl7vh6osl29",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk8-m9bg319zeorrd5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lc-mkejl7u7asy05b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lg-mkejl7vnxp1f47"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Sirai/Asco 同廠\n30A 壓力開關",
     "url": "https://shopee.tw/product/14094915/26485886348"
   },
   {
@@ -3248,15 +2223,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / Cimbali / Casadio",
     "image": "/img/products/24229836833.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-luwvn9krdwqe36",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-luwvn9krfbaub9",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-luwvn9krgpvaa2"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "握把只適用於\nFaema Cimbali Casadio 咖啡機",
     "url": "https://shopee.tw/product/14094915/24229836833"
   },
   {
@@ -3271,15 +2239,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/42012342530.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0r-mdb1ftmjenggd0",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0h-mdb1ftmjg20w8a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0j-mdb1ftmjbubk41"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於：7uf",
     "url": "https://shopee.tw/product/14094915/42012342530"
   },
   {
@@ -3294,16 +2255,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Fiamma",
     "image": "/img/products/23513671424.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-4rik4icb8elv1d",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-4qijticb8elv6f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkd-m8bwd7iteuyh00",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk2-m8bwd7itevhj2a"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 Fiamma",
     "url": "https://shopee.tw/product/14094915/23513671424"
   },
   {
@@ -3318,15 +2271,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23168866014.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lkvvad6ml3ndcb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lkvvad6ml3ip10",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lkvvad62lwvt2d"
-    ],
     "sold": 12,
     "rating": 5,
-    "ratingCount": 5,
-    "description": "螺牙 外徑直徑 1.3公分\n通用版 2分牙",
     "url": "https://shopee.tw/product/14094915/23168866014"
   },
   {
@@ -3341,15 +2287,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ODE",
     "image": "/img/products/27074810280.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m5mf37jtrb4166",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras9-m5mf37f3y7ltfe",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rash-m5mf37hbuz0tcb"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "220V 電壓",
     "url": "https://shopee.tw/product/14094915/27074810280"
   },
   {
@@ -3364,16 +2303,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/27400899410.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpfbvhfb8ifb5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvpfbvhffg7r4c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lvpfbvhfcn2v61",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lvpfbvhfe1nb1a"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於 gino",
     "url": "https://shopee.tw/product/14094915/27400899410"
   },
   {
@@ -3388,16 +2319,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "IMS / E61",
     "image": "/img/products/143774516.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/e20c1d742fcc863b119d9fd78c65b7b2",
-      "https://down-tw.img.susercontent.com/file/9ba9078369d266d701bf682ea22c0685",
-      "https://down-tw.img.susercontent.com/file/10e71c035068d985f4eb89caebfe091b",
-      "https://down-tw.img.susercontent.com/file/14ca1a8a4abe952b9e04abb89600d9f9"
-    ],
     "sold": 5,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用E61崁入式濾網",
     "url": "https://shopee.tw/product/14094915/143774516"
   },
   {
@@ -3412,14 +2335,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gino",
     "image": "/img/products/24164089200.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-ls0pe80z8few7a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-ls0pe80fdgco86"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於機型\nGino:GCM221 GCM223",
     "url": "https://shopee.tw/product/14094915/24164089200"
   },
   {
@@ -3434,20 +2351,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Sanremo",
     "image": "/img/products/9854387997.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/04cc56bf8e213f9a092c8ca151e3a632",
-      "https://down-tw.img.susercontent.com/file/16aaf8d6691dde05965065b9924582be",
-      "https://down-tw.img.susercontent.com/file/6be951d04a66a84bf8f85d39b2cab162",
-      "https://down-tw.img.susercontent.com/file/d2147ee3c7f76f4f614496d05f4f0155",
-      "https://down-tw.img.susercontent.com/file/cebf5058ecb9385a8d8b83d1a6df7884",
-      "https://down-tw.img.susercontent.com/file/026a30b8bfbc476024acf2fa7a30275c",
-      "https://down-tw.img.susercontent.com/file/ef27d2f59824d2eaeb74c013426581cd",
-      "https://down-tw.img.susercontent.com/file/45ebc652a0cef37448810b98138b80a7"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "1,本售價不含沖泡電磁閥，附照謹作功能示範\n2,沖泡閥 洩壓排水 接管順暢\n3,金屬製品\n4,適用 Sanremo expobar",
     "url": "https://shopee.tw/product/14094915/9854387997"
   },
   {
@@ -3462,19 +2367,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Parker",
     "image": "/img/products/4101459214.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/c148a257401979c012551e4823f403af",
-      "https://down-tw.img.susercontent.com/file/93e3b7f4d54b6ac6812db582bc0a343c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lwthr12jw9ie4e",
-      "https://down-tw.img.susercontent.com/file/49277b92c229a1b385e46ebb49c1f3ae",
-      "https://down-tw.img.susercontent.com/file/81989ba92bf907635642c687444819d0",
-      "https://down-tw.img.susercontent.com/file/6ce068692c8c35f07d6c8f7982b1e573",
-      "https://down-tw.img.susercontent.com/file/1c5b5b8dd0c960a55205830f0b6e7342"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "義大利 製造  220V , 25A\n管徑 1/4\" <2分>\nParker 型號 PS325-1C-SX",
     "url": "https://shopee.tw/product/14094915/4101459214"
   },
   {
@@ -3489,17 +2383,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / E98",
     "image": "/img/products/22128766752.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-3ydee5gas6nv9c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-km3ji1gas6nva7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-7l3ji1gas6nv0f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-gzdee5gas6nv46",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-c9xopwz9s6nvee"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Faema E98 適用\n220V 進水電磁閥",
     "url": "https://shopee.tw/product/14094915/22128766752"
   },
   {
@@ -3514,17 +2399,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Appia / Aurelia",
     "image": "/img/products/26400837473.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lvns1uabq28i61",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lvns1u97ypxzca",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lvns1u9804ifa8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lvns1u981j2v31",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lvns1uabrgsy13"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Appia Life適用",
     "url": "https://shopee.tw/product/14094915/26400837473"
   },
   {
@@ -3539,20 +2415,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/998801215.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasl-m237pzqgf8g571",
-      "https://down-tw.img.susercontent.com/file/7962be6758508d8f29dc309e90aacaf5",
-      "https://down-tw.img.susercontent.com/file/e015b30ae9dd5cab0a2fc573f02aa65d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasf-m237pzpcgux134",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasf-m237pzpmggxwa1",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rash-m237pzr0efusa2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasf-m237pzum95twb3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m237pzsece4l21"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "附21公克濾杯",
     "url": "https://shopee.tw/product/14094915/998801215"
   },
   {
@@ -3567,15 +2431,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/112252817.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/f1922808130be9537685552b23603777",
-      "https://down-tw.img.susercontent.com/file/6de1fa41b1acb2a316eac77b6d0d4f37",
-      "https://down-tw.img.susercontent.com/file/a847377ce08109826908d8b669150562"
-    ],
     "sold": 6,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "義大利製: fluid\n單孔咖啡機 適用，\n本商品不含 進/出水口 轉接頭\n100 L/H",
     "url": "https://shopee.tw/product/14094915/112252817"
   },
   {
@@ -3590,15 +2447,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/27779024442.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbka-m765bmt4m63m78",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbkd-m765bmt4m6c81e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-m765bmt4nkwoe7"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "2分內牙\n220V 電壓",
     "url": "https://shopee.tw/product/14094915/27779024442"
   },
   {
@@ -3613,15 +2463,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/17351114968.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/896c9a64395d70566feb1952ee6c7597",
-      "https://down-tw.img.susercontent.com/file/9ca7d78f49279bd12272c904e6185738",
-      "https://down-tw.img.susercontent.com/file/d7adf8ccbe1c28ea3299592a347d31ee"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 4,
-    "description": "Parker 沖泡電磁閥\n220V",
     "url": "https://shopee.tw/product/14094915/17351114968"
   },
   {
@@ -3636,13 +2479,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Lelit",
     "image": "/img/products/23058628857.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-ln3okib44o7tf3"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Lelit 適用\n1分外牙",
     "url": "https://shopee.tw/product/14094915/23058628857"
   },
   {
@@ -3657,17 +2495,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Lelit",
     "image": "/img/products/19495147677.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lnvxf0dr1c1lae",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-lnvxf0drfdq176",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lnvxf0e0y3vh6f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lnvxf0dqzxh5e6",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lnvxf0euww0t18"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於\n Lelit 單孔咖啡機\n外牙 1分",
     "url": "https://shopee.tw/product/14094915/19495147677"
   },
   {
@@ -3682,16 +2511,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/29267884940.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m2pz44a4t9jf68",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras9-m2pz44a4ruyz3f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m2pz44a4uo3vf6",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m2pz44a4w2ob4f"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "咖啡機專用：\nFiamma Expobar Sanremo \nAscaso Carimali \nCime BFC \n因為各廠牌都有其專屬的旋紐 \n可能規格 不完全適用",
     "url": "https://shopee.tw/product/14094915/29267884940"
   },
   {
@@ -3706,18 +2527,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "Pavoni",
     "image": "/img/products/2121734416.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/f977ac2dddff1bc1f3edb16cd0a4bc1f",
-      "https://down-tw.img.susercontent.com/file/694408fc1f4977a4229a00001b5d5696",
-      "https://down-tw.img.susercontent.com/file/4140400020ccd8991a1a4b09ce786851",
-      "https://down-tw.img.susercontent.com/file/1ef74896cf4c0f512ca674703259e867",
-      "https://down-tw.img.susercontent.com/file/9c02ac5b575be3080b85db1564394de0",
-      "https://down-tw.img.susercontent.com/file/48b1c91cb50fbfa932d861acf7eba890"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "無底沖泡把手 : 附 20公克濾杯*1\n特別說明:兩邊卡榫 。\n                  為了濾杯/墊圈 契合更密，有磨過痕跡。\n                  保證全新品。",
     "url": "https://shopee.tw/product/14094915/2121734416"
   },
   {
@@ -3732,14 +2543,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/25362129232.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lr9to64h0jd477",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lr9to650zpoy59"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 \nKlub 茶把手",
     "url": "https://shopee.tw/product/14094915/25362129232"
   },
   {
@@ -3754,15 +2559,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/20022536985.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/0cdf4d7541b78071761e25bad4c3e31b",
-      "https://down-tw.img.susercontent.com/file/a9dd45d1bfde30d7e0308d380db3c2aa",
-      "https://down-tw.img.susercontent.com/file/a73a524f6911df2fbbbfb2c94474855e"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於：半自動咖啡機\n請注意 螺牙可能會不一樣，\n購買前請用聊聊\n確認",
     "url": "https://shopee.tw/product/14094915/20022536985"
   },
   {
@@ -3777,16 +2575,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/26108417597.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lz60rkpwgnw439",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-lz60rko8j3mm0d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lz60rkraemu627",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lz60rks4deyc3b"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於排水牙徑",
     "url": "https://shopee.tw/product/14094915/26108417597"
   },
   {
@@ -3801,15 +2591,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/16288259463.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-hh7mqw6h1zivf2",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-hpoem16h1zivcc",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22100-qrfbu36h1ziv74"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "帶線馬達啟動電容器 10uf\n適用於 磨豆機",
     "url": "https://shopee.tw/product/14094915/16288259463"
   },
   {
@@ -3824,16 +2607,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ODE",
     "image": "/img/products/26027462774.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-m7ow36szmf6t56",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-m7ow36szxnqd01",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk6-m7ow36szmfd0d7",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk5-m7ow36t01vlw88"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "2分內牙",
     "url": "https://shopee.tw/product/14094915/26027462774"
   },
   {
@@ -3848,16 +2623,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "La Marzocco / IMS",
     "image": "/img/products/2473135982.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/185e1d1f500fe5c702b826d460ded76e",
-      "https://down-tw.img.susercontent.com/file/cd525f7eb823dc6a5aceefe21759b21a",
-      "https://down-tw.img.susercontent.com/file/b57fcb89ca1ef89dc0a73e3729a8136f",
-      "https://down-tw.img.susercontent.com/file/bdaca3778e13bd3d968f6252404c42e3"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用機種 :Lamarzocco",
     "url": "https://shopee.tw/product/14094915/2473135982"
   },
   {
@@ -3872,17 +2639,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "E98",
     "image": "/img/products/24578363527.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-luvh3ze05ree22",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-luvh3ze075yu4e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98p-luvh3ze05rkb43",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-luvh3ze0l7naea",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-luvh3zeu4jpnb5"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於E98 \n內牙 4孔",
     "url": "https://shopee.tw/product/14094915/24578363527"
   },
   {
@@ -3897,17 +2655,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "F64E / F83E",
     "image": "/img/products/29701320985.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lvwisx0i3oyu75",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lvwisx0i0vty4a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lvwisx0i2aee16",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lvwisx0igc2uc3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvwisx2fy1ie3d"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "F64E 磨豆機 止動固定",
     "url": "https://shopee.tw/product/14094915/29701320985"
   },
   {
@@ -3922,16 +2671,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "F83E",
     "image": "/img/products/54650788861.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztf-mgnctlk6b2mgad",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-mgnctlkox3in52",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81zto-mgnctljvcd1ma8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-81ztd-mgnctlmotw5o04"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "大刀盤 83mm",
     "url": "https://shopee.tw/product/14094915/54650788861"
   },
   {
@@ -3946,15 +2687,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/49156401033.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l5-ml3f8zqx91c64b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-ml3f8zplrk7615",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-ml3f8zq38ume33"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於：\n茶包沖泡把手",
     "url": "https://shopee.tw/product/14094915/49156401033"
   },
   {
@@ -3969,15 +2703,8 @@ export const PRODUCTS: Product[] = [
     "material": "橡膠 (耐熱)",
     "compatible": "元揚 / E98",
     "image": "/img/products/21681580345.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul0-liwrr5fudao28c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7quky-liwrr5fuep8i55",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul9-liwrr5fug3sy2f"
-    ],
     "sold": 12,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "適用於：元揚 YCTLL 咖啡機\nFaema E98 系列 加厚版 8.5",
     "url": "https://shopee.tw/product/14094915/21681580345"
   },
   {
@@ -3992,18 +2719,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Simonelli / Appia",
     "image": "/img/products/190362507.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/99847bc1b87092608c9d5a79ff9ca7d1",
-      "https://down-tw.img.susercontent.com/file/db43476e90bc66b2ae8c61126892737b",
-      "https://down-tw.img.susercontent.com/file/dbf84732d3cd8c8db34de145d6c5961b",
-      "https://down-tw.img.susercontent.com/file/0342569c8c5c8ef39ace62aff506d076",
-      "https://down-tw.img.susercontent.com/file/4cd2712a6e310ef7611b31b7745f40d8",
-      "https://down-tw.img.susercontent.com/file/5909221430b8be142f14fae3ce444d70"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "附濾杯 < 20公克 >",
     "url": "https://shopee.tw/product/14094915/190362507"
   },
   {
@@ -4018,20 +2735,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/29555801435.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lxxrmyb12ejq96",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lxxrmyb0prfq90",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lxxrmyb0y6ue11",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lxxrmyd8mib441",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lxxrmyb0r60681",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lxxrmyb0skkm28",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lxxrmyb0tz525c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lxxrmyb0ws9y2e"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於管徑 7mm (1分）",
     "url": "https://shopee.tw/product/14094915/29555801435"
   },
   {
@@ -4046,20 +2751,8 @@ export const PRODUCTS: Product[] = [
     "material": "依實品",
     "compatible": "Sirai",
     "image": "/img/products/3901553521.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/048327ea3fd1c57085f68806cb584171",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul6-lg68s9jxolq944",
-      "https://down-tw.img.susercontent.com/file/bb326ece4c1ab5f12fda5f42cf884004",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk3-m9cckbhxm24908",
-      "https://down-tw.img.susercontent.com/file/72f5adfc49df6ce8e564c9554fd44a61",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rbk1-m9cckbhxknjtf4",
-      "https://down-tw.img.susercontent.com/file/6b9261ba2b0b89ca339969c50f8bddfe",
-      "https://down-tw.img.susercontent.com/file/3b7af0686c8db2b4ea77b062936dd89a"
-    ],
     "sold": 8,
     "rating": 5,
-    "ratingCount": 8,
-    "description": "半自動咖啡機專用\n製造廠牌 : Sirai （舊品牌）\n                   2023年改新名 Asco \n電壓: 220 V , 30A , \n1/4\" 管徑",
     "url": "https://shopee.tw/product/14094915/3901553521"
   },
   {
@@ -4074,13 +2767,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "Gino",
     "image": "/img/products/23439849060.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul5-lfro2gyh1g5d8c"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "全新品",
     "url": "https://shopee.tw/product/14094915/23439849060"
   },
   {
@@ -4095,15 +2783,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "CMA",
     "image": "/img/products/27424160272.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasm-m59wre7qrgraaf",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasa-m59wre62twgm94",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m59wre6wsnxya4"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "CMA 適用",
     "url": "https://shopee.tw/product/14094915/27424160272"
   },
   {
@@ -4118,16 +2799,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2127484380.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/ad2afea90c591d9660cd421cee6259d6",
-      "https://down-tw.img.susercontent.com/file/50c08f7f239961ccbf7cf4e4e9e087f6",
-      "https://down-tw.img.susercontent.com/file/1969d74dc17ae6228a6ab51fb8eb4f64",
-      "https://down-tw.img.susercontent.com/file/fb1a7b0f365bf1f55a259c14aff77570"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "單孔 半自動義式咖啡機 專用\n電壓 220V ， 含馬達啟動電容器*1 (如照片)\n廠牌 :RPM\n因重量 可能超過超商限定， 僅限 宅配 運送",
     "url": "https://shopee.tw/product/14094915/2127484380"
   },
   {
@@ -4142,14 +2815,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Gino",
     "image": "/img/products/24104372060.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-lpk6o2hwi2ah3d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-lpk6o2iqgufta6"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "Gino 茶機 咖啡機適用",
     "url": "https://shopee.tw/product/14094915/24104372060"
   },
   {
@@ -4164,18 +2831,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/21766060773.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-v03b4iowsjkv9e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-locbomy9qykt21",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-j3jg2fowsjkvc0",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-k0nrbbowsjkvc8",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-9ope0howsjkvf6",
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-vpbhhdd9sjkv72"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "套環內緣到底部約5.4公分\n套環外緣到底部約6公分\n流量規格 100公升/1小時",
     "url": "https://shopee.tw/product/14094915/21766060773"
   },
   {
@@ -4190,15 +2847,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ODE",
     "image": "/img/products/13075505905.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/957cf663ea4e5207ad3e707262c454a6",
-      "https://down-tw.img.susercontent.com/file/092827bccdf1624bad8e660a0ac6fcc7",
-      "https://down-tw.img.susercontent.com/file/f02aea77c0ec9e1345ee4ad5c66d7242"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "220V\n1/4'' (2分進水口）",
     "url": "https://shopee.tw/product/14094915/13075505905"
   },
   {
@@ -4213,16 +2863,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Sanremo",
     "image": "/img/products/23043558456.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qukw-lh7g71bbplwp09",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-lh7g71bvoso986",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qula-lh7g71blp7ah9d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lh7g71bc52cs73"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Sanremo",
     "url": "https://shopee.tw/product/14094915/23043558456"
   },
   {
@@ -4237,16 +2879,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "ODE",
     "image": "/img/products/2547148745.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lvqu7fr9k6hjff",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lvqu7foho89ee8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lvqu7fplmm6v0c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-lvqu7fqflec708"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "請注意 這款的進出水口徑是 (1分) 1/8\"\n如果有需要 (2分) 1/4\" 請先利用 (聊聊)詢問。",
     "url": "https://shopee.tw/product/14094915/2547148745"
   },
   {
@@ -4261,16 +2895,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Fiorenzato / My way",
     "image": "/img/products/29903493362.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwthr12k4ox28b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98x-lwthr12k3acm43",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-lwthr12k63hi7b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98s-lwthr12k7i1yc2"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "外牙接頭3分\n適用於\nMy way \nFiorenzato",
     "url": "https://shopee.tw/product/14094915/29903493362"
   },
   {
@@ -4285,16 +2911,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/23285046564.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lnghh70rljqx4b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820l4-mldb86zgcu88b2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lb-mldb86zge8soc5",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-820lh-mldb86zgfnd4e2"
-    ],
     "sold": 1,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "適用於 Expobar",
     "url": "https://shopee.tw/product/14094915/23285046564"
   },
   {
@@ -4309,15 +2927,8 @@ export const PRODUCTS: Product[] = [
     "material": "核桃木 + 不銹鋼",
     "compatible": "KLUB / Gino",
     "image": "/img/products/19409837545.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/eaacc88984f69651a4bdf9bbdd76cae7",
-      "https://down-tw.img.susercontent.com/file/7b4690003e837d3f45357b8bf14bfd45",
-      "https://down-tw.img.susercontent.com/file/4d8db36e4adb395408f1b5d01e4594f8"
-    ],
     "sold": 3,
     "rating": 5,
-    "ratingCount": 3,
-    "description": "適用於 Klub, Gino",
     "url": "https://shopee.tw/product/14094915/19409837545"
   },
   {
@@ -4332,16 +2943,8 @@ export const PRODUCTS: Product[] = [
     "material": "核桃木 + 不銹鋼",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2184093809.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/8cd94d3c539871c1a59496f44794a508",
-      "https://down-tw.img.susercontent.com/file/8d6df1c11d8f0ab11917f1332626f1af",
-      "https://down-tw.img.susercontent.com/file/502a4b31f2d350830e928d6758cf7924",
-      "https://down-tw.img.susercontent.com/file/21da7c8c0df7c537574b7c24c522b4b5"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "半自動咖啡機 適用:Expobar office 拉霸機 \n                                    Lelit\n                                    Bfc classic\n                                    E61 沖泡頭\n                                    Rancilio Silvia\n                                 附20公克濾杯",
     "url": "https://shopee.tw/product/14094915/2184093809"
   },
   {
@@ -4356,18 +2959,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Epoca",
     "image": "/img/products/3417086948.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/926f15282e484a562b37fe8e3e8d1006",
-      "https://down-tw.img.susercontent.com/file/8b50c02b4cfcbb21c61ae589bf3acf03",
-      "https://down-tw.img.susercontent.com/file/849afbaae5e94487b74e105d5b43aaaf",
-      "https://down-tw.img.susercontent.com/file/cdeb3fc2067f28cbfab0bfe181a3559c",
-      "https://down-tw.img.susercontent.com/file/57db5210ad90305448e198da849e51ea",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lo8bnp110l6q76"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用咖啡機 廠牌 epoca",
     "url": "https://shopee.tw/product/14094915/3417086948"
   },
   {
@@ -4382,15 +2975,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/21841841140.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/3206da65db83a9f9162ce63267baf1fb",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0l-mctroovdepfj73",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ra0n-mctrootzi51bc4"
-    ],
     "sold": 7,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "PA1504",
     "url": "https://shopee.tw/product/14094915/21841841140"
   },
   {
@@ -4405,16 +2991,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema / E61 / E98",
     "image": "/img/products/29222202369.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7ras8-m4iluz165hcb94",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m4iluyz88bnv88",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rase-m4iluz0273y852",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasb-m4f7kz1cq82v10"
-    ],
     "sold": 2,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nFaema E91 E98 E61\n“ 進/出水管接頭 可以直接鎖入”",
     "url": "https://shopee.tw/product/14094915/29222202369"
   },
   {
@@ -4429,17 +3007,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "CMA / MCE",
     "image": "/img/products/1755610935.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/bf8c8c3104f4b188b1269653f67af681",
-      "https://down-tw.img.susercontent.com/file/00015b07e591e698ea8bd0223becfa17",
-      "https://down-tw.img.susercontent.com/file/6d5ba1db3f726af97d49137f88e75f4d",
-      "https://down-tw.img.susercontent.com/file/6e8bda86bfe5c1d7b2b107c61e8f8018",
-      "https://down-tw.img.susercontent.com/file/1f8d919543f1fcb06c513ef9ec9952d7"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "附濾杯 20公克\n咖啡機照片 是 MCE 參考用",
     "url": "https://shopee.tw/product/14094915/1755610935"
   },
   {
@@ -4454,16 +3023,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Lelit",
     "image": "/img/products/19394459978.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-m09yhlc9l7tf0e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-m09yhlc99yw723",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-m09yhlc9cs135d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-m09yhlc9bdgnc5"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nLelit\n電壓110V\n進/出水口 內牙 1分",
     "url": "https://shopee.tw/product/14094915/19394459978"
   },
   {
@@ -4478,13 +3039,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "KLUB",
     "image": "/img/products/18470048865.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-8vritgx2unlv77"
-    ],
     "sold": 1,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "高溫安全閥\n2分（1/4“）外牙",
     "url": "https://shopee.tw/product/14094915/18470048865"
   },
   {
@@ -4499,15 +3055,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/20686287949.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-lo3hhcvuo9i5f9",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lo3hhcu6qpmh72",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lo3hhcu6qp7h5c"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "沖泡電磁閥 排水口 減壓閥",
     "url": "https://shopee.tw/product/14094915/20686287949"
   },
   {
@@ -4522,13 +3071,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "BFC",
     "image": "/img/products/20769568728.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/sg-11134201-22120-e3pcckg87elv1a"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 BFC咖啡機",
     "url": "https://shopee.tw/product/14094915/20769568728"
   },
   {
@@ -4543,16 +3087,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Appia",
     "image": "/img/products/112256152.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/b34f1b449b6db3eb90fd95eec7f1a70a",
-      "https://down-tw.img.susercontent.com/file/67a93ec6f1124dfb0a27fe78ea16d369",
-      "https://down-tw.img.susercontent.com/file/a9106ce18df1f46597f0b46344203df8",
-      "https://down-tw.img.susercontent.com/file/6e254954fed4e10ed67c2bf506e430ff"
-    ],
     "sold": 2,
     "rating": 5,
-    "ratingCount": 2,
-    "description": "#附濾杯",
     "url": "https://shopee.tw/product/14094915/112256152"
   },
   {
@@ -4567,16 +3103,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/6404130910.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/491d54d128feba03f7ddaa229c695dde",
-      "https://down-tw.img.susercontent.com/file/eb8e8231a61953f32ae47d1f86e6641c",
-      "https://down-tw.img.susercontent.com/file/4b1d5df9ce08329c02e1312159962ab4",
-      "https://down-tw.img.susercontent.com/file/c54ea17cf9dfa9c8c94b08f5c97707f5"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "咖啡機專用，電壓 220V",
     "url": "https://shopee.tw/product/14094915/6404130910"
   },
   {
@@ -4591,15 +3119,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Major",
     "image": "/img/products/22251153300.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rasf-m0pj2pzq79w36b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7qul8-lkdu13vc79dk9f",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7rask-m0pj2q146mzrbe"
-    ],
     "sold": 4,
     "rating": 5,
-    "ratingCount": 1,
-    "description": "刀盤外徑：83mm\n        內徑：49\n        厚度：9.5\n義大利製造\n適用於：F83, F6, Major",
     "url": "https://shopee.tw/product/14094915/22251153300"
   },
   {
@@ -4614,19 +3135,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Laspaziale",
     "image": "/img/products/1947516643.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/745f8b4e83c2eecf6bf2d11e43f554b2",
-      "https://down-tw.img.susercontent.com/file/4754045ef5b8a376ca91d100725cc9f3",
-      "https://down-tw.img.susercontent.com/file/ceda9cd182a7789f28f5022a6cd901ee",
-      "https://down-tw.img.susercontent.com/file/846f2d1dc2b46b99b552082e8814d60b",
-      "https://down-tw.img.susercontent.com/file/c36e85331720563af83a372b5704d184",
-      "https://down-tw.img.susercontent.com/file/b343fdeec69768ff6cbab11178ff3991",
-      "https://down-tw.img.susercontent.com/file/02a1c3a5775f7fffe95bc5fe26e03abe"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "附 20公克 濾杯\n適用: 半自動咖啡機 Laspaziale S1,S2  , S8 , New Ek",
     "url": "https://shopee.tw/product/14094915/1947516643"
   },
   {
@@ -4641,17 +3151,8 @@ export const PRODUCTS: Product[] = [
     "material": "塑膠 / 電子件",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2180041605.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/defa5c65504a9f02c738242e070f4e22",
-      "https://down-tw.img.susercontent.com/file/79f29249f4ec620f0047cfa98c533ad9",
-      "https://down-tw.img.susercontent.com/file/15660fd672144a6977e045ca671b8843",
-      "https://down-tw.img.susercontent.com/file/bd6aa387561305549525ee74ea070d28",
-      "https://down-tw.img.susercontent.com/file/77e97ec1f1dc859f4fa07c0ceed2a49e"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "110 V, 單孔半自動咖啡機專用\n含啟動電容器*1\n含運費",
     "url": "https://shopee.tw/product/14094915/2180041605"
   },
   {
@@ -4666,18 +3167,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Faema",
     "image": "/img/products/24312475160.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-lre5188bikg804",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-lre517vu28cy56",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lre517vk18ugef",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98w-lre518kt0a8i46",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r990-lre517zpv5l4ef",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98z-lre5181dspvs60"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 \nFaema E61 E98",
     "url": "https://shopee.tw/product/14094915/24312475160"
   },
   {
@@ -4692,14 +3183,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2659975100.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/57ae264f3d7051c8868a83a0ecd991ef",
-      "https://down-tw.img.susercontent.com/file/c61646cd02ffc8fe3d92b7af5442b755"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "双壓錶 (沖泡壓力/鍋爐壓力)",
     "url": "https://shopee.tw/product/14094915/2659975100"
   },
   {
@@ -4714,15 +3199,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/26403486229.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwthr12jp8o656",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-lwthr12jmfja0b",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lwthr12jnu3q35"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於 220V",
     "url": "https://shopee.tw/product/14094915/26403486229"
   },
   {
@@ -4737,14 +3215,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "La Marzocco",
     "image": "/img/products/23758637299.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-ln3okib3p7yxc2",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-ln3okib3qmjda0"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "適用於\nLamarzocco\n2分外牙",
     "url": "https://shopee.tw/product/14094915/23758637299"
   },
   {
@@ -4759,16 +3231,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/2127522948.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/38afa527a2397bba96f46bafbb9ae566",
-      "https://down-tw.img.susercontent.com/file/f2f8b9d2b348bdabed68b2a0e1e4de0b",
-      "https://down-tw.img.susercontent.com/file/121d31e850a73af8d375644d0e648919",
-      "https://down-tw.img.susercontent.com/file/f11d5ad78a738aa3bd07f4a5d1a8941e"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "單孔咖啡機 專用， 100 L/H\n本項商品不含 (馬達/轉接頭)，未稅價。\n\n另外有雙孔咖啡機的 專用規格 幫浦頭，\n請另洽詢問。",
     "url": "https://shopee.tw/product/14094915/2127522948"
   },
   {
@@ -4783,18 +3247,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Expobar",
     "image": "/img/products/3314819110.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23010-b77tcg3q8vmvff",
-      "https://down-tw.img.susercontent.com/file/17db078ab62c3e0c91ddc68c58305706",
-      "https://down-tw.img.susercontent.com/file/68baf48875b93d1113fc264c8a9a98b4",
-      "https://down-tw.img.susercontent.com/file/3afaa10d375ae8b47cfa47e18a980315",
-      "https://down-tw.img.susercontent.com/file/a4ceab1e1c074d12a209bba47e08ce69",
-      "https://down-tw.img.susercontent.com/file/ddc2575275b8dfc9b0360399efc3090b"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "半自動咖啡機 專用\n含 20公克 濾杯 *1",
     "url": "https://shopee.tw/product/14094915/3314819110"
   },
   {
@@ -4809,14 +3263,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "通用 / 依規格確認",
     "image": "/img/products/13381572067.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/1e173ac14cd662639c86860fa4dcc4f3",
-      "https://down-tw.img.susercontent.com/file/592b41c46fa4cb094dbb0febf528e7cc"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "錶身外徑 6.0公分\n指針 ： 雙 指針 上/鍋壓，下/沖壓",
     "url": "https://shopee.tw/product/14094915/13381572067"
   },
   {
@@ -4831,19 +3279,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "Vibiemme / Lollo",
     "image": "/img/products/9919836062.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/5abb99244fbf573dee38c96557a4cba2",
-      "https://down-tw.img.susercontent.com/file/02ab8c04acf84c9f8b51299ad7ca5528",
-      "https://down-tw.img.susercontent.com/file/571d6345108468ab7c059f43a71dea2f",
-      "https://down-tw.img.susercontent.com/file/31eb67918a4343878856c40711425549",
-      "https://down-tw.img.susercontent.com/file/7233a2e265572b9485b452f7a2fde2b7",
-      "https://down-tw.img.susercontent.com/file/d41603c276b740f1cfad307f7adacc03",
-      "https://down-tw.img.susercontent.com/file/c8eaf769f1542119dde080b4ef9af901"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "二手 雙孔咖啡機\n本售價是單機 未稅價格 可以配合裝機，運費另議\n配件： 沖泡把手*2, 不銹鋼填壓器，渣桶\n保固 3個月",
     "url": "https://shopee.tw/product/14094915/9919836062"
   },
   {
@@ -4858,18 +3295,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Fiorenzato / Lido",
     "image": "/img/products/23583975808.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98v-ln2jz2ckrwyh16",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r992-ln2jz2deqoync0",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98q-ln2jz2ckuq3d05",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r991-ln2jz2ckxj89f8",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98u-ln3okib3jlp52c",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98y-ln3okib439nd02"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "整台機器已全部作過大保養\n全新迴轉式幫浦頭\n義大利製造\n本售價不含桃園以南之運送費用\n可以配合裝機\n保固3個月\n（配件）沖泡把手*3 , 填壓器*1, 抽屜式渣盒\n尺寸：長 85* 前後58* 高60\n規格：220V , 18A",
     "url": "https://shopee.tw/product/14094915/23583975808"
   },
   {
@@ -4884,21 +3311,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "Expobar",
     "image": "/img/products/8353564474.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/1a29088999566f78d615a9cc37bc03fb",
-      "https://down-tw.img.susercontent.com/file/8a4a42c61c38a6256cda03d5f647b4bb",
-      "https://down-tw.img.susercontent.com/file/b3c5b1d893ee94d48af1576744e31e25",
-      "https://down-tw.img.susercontent.com/file/5e8e515b00294779bdf075ae30425692",
-      "https://down-tw.img.susercontent.com/file/a152b6315396809f81e573140e3b7fd0",
-      "https://down-tw.img.susercontent.com/file/e29ed6ffc9611c531401279614d2a5c3",
-      "https://down-tw.img.susercontent.com/file/359d9d4b6b1ab05a1db3ce0bc63e389f",
-      "https://down-tw.img.susercontent.com/file/671eb8e9a213fe059eee2aadfe40fc28",
-      "https://down-tw.img.susercontent.com/file/b2dfecb8d99c4e2c412fb4be5cf3ca11"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "1, PID 鍋爐控溫 保持恆溫 溫度顯示\n2, 左右 沖泡頭 萃取咖啡 秒數計時顯示 最佳口感\n3, 鍋爐水位量顯示\n4, 自動清潔沖泡頭功能 保養沖泡室 簡便有效率\n5, 萃取咖啡 預浸泡 設定\n6, 可設定熱水 出水量 熱能不浪費\n7, 盛水盤 靈巧設計 定位 減少震動雜音\n8, 高杯架 彈性 方便使用 高杯 進出 \n9, 沖泡頭 包覆外蓋隔離 燙傷\n10,蒸氣 把手上下操控 減少手脕 左右轉負擔\n11,造型亮麗  有特點 值得您擁有\n12,沖泡把手3支，填壓器，佈粉器，\n      抽屜式 不銹鋼渣盒",
     "url": "https://shopee.tw/product/14094915/8353564474"
   },
   {
@@ -4913,17 +3327,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Anfim / Caimano",
     "image": "/img/products/24175643523.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lubtwzh82nsp73",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lubtwzh7zunt04",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98r-lubtwzh819895a",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98o-lubtwzh842d5d3",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-7r98t-lubtwzh85gxl50"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "Anfim Caimano \n電壓 220 V\n64 刀盤",
     "url": "https://shopee.tw/product/14094915/24175643523"
   },
   {
@@ -4938,20 +3343,8 @@ export const PRODUCTS: Product[] = [
     "material": "不銹鋼",
     "compatible": "Expobar / Carat",
     "image": "/img/products/22132381895.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-vyvvooclppov88",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-myusspclppov04",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-mefjvmckuqov55",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-u1lp1rclppov5d",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-8j1q1rclppov72",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-rzlp1rclppovc6",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-yzvvooclppov5e",
-      "https://down-tw.img.susercontent.com/file/tw-11134207-23030-bf8887gfuqov90"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "全新機\n萃取計時\n沖泡頭自動清洗\nPid 感測鍋爐溫度，準確控溫\n有顯示幕：鍋溫, 沖泡時間, \n 鍋爐水位, 沖泡頭動作顯示\n57長*57深*高62 公閥\n單相 , 220電壓 \n耗電量 12安培 約 2,600W\n配件：沖泡把手2支\n不銹鋼填壓器,  佈粉器, 渣粉抽屜.",
     "url": "https://shopee.tw/product/14094915/22132381895"
   },
   {
@@ -4966,20 +3359,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Wega",
     "image": "/img/products/7427569389.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/9551f1dc2867ba719ec3858ff8a78287",
-      "https://down-tw.img.susercontent.com/file/77703393fea2e2d13a3e4525b533f3b5",
-      "https://down-tw.img.susercontent.com/file/222b023a5c29f6fedce896592e2be226",
-      "https://down-tw.img.susercontent.com/file/eebf6995914d0d349857d947fda1a2da",
-      "https://down-tw.img.susercontent.com/file/4f1580a2e6b1873111f6572ab243472a",
-      "https://down-tw.img.susercontent.com/file/2fa19df9a76210af4ed651049904437f",
-      "https://down-tw.img.susercontent.com/file/b30e22bef13d7c76f86a573e4210622f",
-      "https://down-tw.img.susercontent.com/file/3f0642bfc43199b2adfa8ce89541b7e1"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "單機 /未稅 售價。 (不含運費)\n高杯 款， Led 燈\n附沖泡把手3支，填壓器*1 , 渣桶*1\n可以配合 裝/試機， 保固6個月。",
     "url": "https://shopee.tw/product/14094915/7427569389"
   },
   {
@@ -4994,20 +3375,8 @@ export const PRODUCTS: Product[] = [
     "material": "金屬",
     "compatible": "Laspaziale / S2",
     "image": "/img/products/3149568424.webp",
-    "images": [
-      "https://down-tw.img.susercontent.com/file/e7edc1afa3c0367180a1a0bf28d904bf",
-      "https://down-tw.img.susercontent.com/file/a6e8ebf5962ebb5db08e829d20cb5906",
-      "https://down-tw.img.susercontent.com/file/eec335f607bfc6bfd4dbd90bbded9572",
-      "https://down-tw.img.susercontent.com/file/23c1fd58909c2713095eb29fa574d682",
-      "https://down-tw.img.susercontent.com/file/eff6394e01fb9668eb94e9dc1c9e10c3",
-      "https://down-tw.img.susercontent.com/file/ab3cadd8518d418a907df293c24ffe53",
-      "https://down-tw.img.susercontent.com/file/fdf30b242813bf393926343507778327",
-      "https://down-tw.img.susercontent.com/file/12076211825bcaf15ecfe1c6412ed32b"
-    ],
     "sold": 0,
     "rating": 0,
-    "ratingCount": 0,
-    "description": "單機價\n高杯款\n配件 3支沖泡把手\n可以配合 裝機，運費另計",
     "url": "https://shopee.tw/product/14094915/3149568424"
   }
 ];

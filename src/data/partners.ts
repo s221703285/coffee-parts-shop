@@ -125,3 +125,10 @@ export const CONTACT = {
   hours: '週一至週五 09:00 – 18:00',
   shopee: 'https://shopee.tw/akey9673',
 };
+
+/**
+ * 合作需求表單的寄送端點(FormSubmit,免後端)。
+ * 第一次送出後,收件信箱會收到一封啟用信,點擊啟用後才會開始轉寄。
+ * 網址末段是 FormSubmit 啟用後提供的隨機代碼,用來取代收件信箱,避免信箱外露。
+ */
+export const FORM_ENDPOINT = 'https://formsubmit.co/ajax/f450b3b314a30cbc0d193f4b2cc0a630';

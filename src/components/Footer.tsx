@@ -6,7 +6,7 @@ export function Footer() {
     <footer className="footer" id="contact">
       <div className="footer-inner">
         <div className="footer-col">
-          <span className="logo-name">KAFFE·WERK</span>
+          <span className="logo-name">零件咖</span>
           <p>專業咖啡機零組件供應商,服務維修廠、烘豆坊與咖啡職人。</p>
         </div>
         <div className="footer-col">
@@ -26,7 +26,7 @@ export function Footer() {
         </div>
       </div>
       <div className="footer-bar">
-        <span>© 2026 KAFFE·WERK PARTS SUPPLY — DEMO — 商品資料與圖片來源:蝦皮「零件咖」</span>
+        <span>© 零件咖 PARTS SUPPLY — 商品資料與圖片來源:蝦皮「零件咖」</span>
       </div>
     </footer>
   );

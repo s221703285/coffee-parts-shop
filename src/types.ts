@@ -19,12 +19,8 @@ export interface Product {
   compatible: string;
   /** 本地主圖 (public/img/products/{id}.webp) */
   image: string;
-  /** 蝦皮原始圖片 URL 列表 */
-  images: string[];
   sold: number;
   rating: number;
-  ratingCount: number;
-  description: string;
   /** 蝦皮商品頁 */
   url: string;
 }

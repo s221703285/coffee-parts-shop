@@ -3,6 +3,7 @@ import type { FormEvent } from 'react';
 import {
   CONTACT,
   FAQS,
+  FORM_ENDPOINT,
   PROGRAMS,
   STATS,
   STEPS,
@@ -13,10 +14,50 @@ export function Partners() {
   const [sent, setSent] = useState(false);
   const [program, setProgram] = useState(PROGRAMS[0].id);
 
-  const onSubmit = (e: FormEvent<HTMLFormElement>) => {
+  const [sending, setSending] = useState(false);
+  const [error, setError] = useState('');
+
+  const onSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // Demo:不實際送出,僅顯示成功訊息
-    setSent(true);
+    if (sending) return;
+    const data = new FormData(e.currentTarget);
+    const field = (name: string) => String(data.get(name) ?? '').trim();
+    const programTitle =
+      PROGRAMS.find((p) => p.id === program)?.title ?? '其他';
+
+    setSending(true);
+    setError('');
+    try {
+      const res = await fetch(FORM_ENDPOINT, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+        },
+        body: JSON.stringify({
+          _subject: `【零件咖 合作需求】${programTitle} — ${field('contact')}`,
+          _template: 'table',
+          _honey: field('_honey'),
+          合作項目: programTitle,
+          '公司 / 店名': field('company') || '(未填)',
+          聯絡人: field('contact'),
+          // 欄位名稱用 email,FormSubmit 會自動設為回信地址
+          email: field('email'),
+          電話: field('phone') || '(未填)',
+          '機型 / 品項 / 數量': field('items') || '(未填)',
+          需求說明: field('message') || '(未填)',
+        }),
+      });
+      const json = await res.json().catch(() => null);
+      if (!res.ok || String(json?.success) !== 'true') {
+        throw new Error('send failed');
+      }
+      setSent(true);
+    } catch {
+      setError('送出失敗,請稍後再試,或改用蝦皮聊聊與我們聯絡。');
+    } finally {
+      setSending(false);
+    }
   };
 
   return (
@@ -26,7 +67,7 @@ export function Partners() {
           <p className="hero-tag">Business Partnership</p>
           <h1 className="page-title">商業合作項目</h1>
           <p className="page-desc">
-            從單店維修到連鎖保養,KAFFE·WERK 提供零件批發、原廠代訂、缺件尋源與設備服務。
+            從單店維修到連鎖保養,零件咖提供零件批發、原廠代訂、缺件尋源與設備服務。
             提出需求,兩個工作天內回覆方案。
           </p>
           <div className="page-actions">
@@ -177,37 +218,57 @@ export function Partners() {
                 </label>
                 <label>
                   公司 / 店名(非必填)
-                  <input placeholder="例:山丘咖啡有限公司" />
+                  <input name="company" placeholder="例:山丘咖啡有限公司" />
                 </label>
                 <label>
                   聯絡人
-                  <input required placeholder="姓名" />
+                  <input name="contact" required placeholder="姓名" />
                 </label>
                 <label>
                   Email
-                  <input required type="email" placeholder="name@company.com" />
+                  <input
+                    name="email"
+                    required
+                    type="email"
+                    placeholder="name@company.com"
+                  />
                 </label>
                 <label>
                   電話
-                  <input placeholder="09xx-xxx-xxx" />
+                  <input name="phone" type="tel" placeholder="09xx-xxx-xxx" />
                 </label>
                 <label>
                   機型 / 品項 / 數量
-                  <input placeholder="例:Faema E98RE 沖泡頭墊圈 x 50" />
+                  <input
+                    name="items"
+                    placeholder="例:Faema E98RE 沖泡頭墊圈 x 50"
+                  />
                 </label>
                 <label className="span-2">
                   需求說明
                   <textarea
+                    name="message"
                     rows={4}
                     placeholder="請描述合作需求、預估月採購量、希望的帳期或交期。"
                   />
                 </label>
+                {/* 防機器人欄位:真人看不到也不會填 */}
+                <input
+                  className="form-honey"
+                  type="text"
+                  name="_honey"
+                  tabIndex={-1}
+                  autoComplete="off"
+                  aria-hidden="true"
+                />
                 <div className="form-foot span-2">
-                  <p className="form-note">
-                    Demo 表單,不會實際送出。也可直接來信 {CONTACT.email}。
-                  </p>
-                  <button className="add-btn" type="submit">
-                    送出需求
+                  {error && (
+                    <p className="form-note form-error" role="alert">
+                      {error}
+                    </p>
+                  )}
+                  <button className="add-btn" type="submit" disabled={sending}>
+                    {sending ? '送出中…' : '送出需求'}
                   </button>
                 </div>
               </form>
