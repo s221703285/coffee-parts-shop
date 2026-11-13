@@ -2,7 +2,6 @@
 
 export interface Program {
   id: string;
-  code: string;
   title: string;
   target: string;
   summary: string;
@@ -12,7 +11,6 @@ export interface Program {
 export const PROGRAMS: Program[] = [
   {
     id: 'wholesale',
-    code: 'B2B-01',
     title: '維修廠 / 設備商 批發採購',
     target: '咖啡機維修廠、餐飲設備經銷商、二手機整新業者',
     summary: '常備 200+ 品項零件現貨,依月採購金額提供階梯折扣與月結帳期。',
@@ -24,7 +22,6 @@ export const PROGRAMS: Program[] = [
   },
   {
     id: 'oem',
-    code: 'B2B-02',
     title: '原廠零件代訂',
     target: '需要原廠件的維修單位、機器代理商',
     summary: '義大利原廠零件代訂,涵蓋 Faema、Cimbali、La Marzocco、Rancilio、Simonelli 等品牌。',
@@ -36,7 +33,6 @@ export const PROGRAMS: Program[] = [
   },
   {
     id: 'sourcing',
-    code: 'B2B-03',
     title: '缺件詢價 / 停產件尋源',
     target: '手上有老機器、找不到零件的店家與維修師',
     summary: '停產或非常規零件協助尋源、比對相容副廠件,或評估車製 / 改裝方案。',
@@ -48,7 +44,6 @@ export const PROGRAMS: Program[] = [
   },
   {
     id: 'maintenance',
-    code: 'B2B-04',
     title: '門市保養合約與備品包',
     target: '連鎖咖啡品牌、自烘店、飯店餐飲部',
     summary: '依機型客製季度保養排程,並配置門市備品包,減少停機時間。',
@@ -60,7 +55,6 @@ export const PROGRAMS: Program[] = [
   },
   {
     id: 'used',
-    code: 'B2B-05',
     title: '二手咖啡機收購與整新',
     target: '結束營業或汰換設備的店家',
     summary: '義式半自動機收購、大保養後整新轉售,或提供整新後回租方案。',
@@ -72,7 +66,6 @@ export const PROGRAMS: Program[] = [
   },
   {
     id: 'training',
-    code: 'B2B-06',
     title: '咖啡機維修專修班(團體 / 企業包班)',
     target: '設備商內訓、連鎖品牌店長與工程人員',
     summary: '半自動咖啡機構造、常見故障判斷、零件更換實作,可依機型客製課程。',

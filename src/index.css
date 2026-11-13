@@ -1052,18 +1052,10 @@ a {
   border-color: var(--line-strong);
 }
 
-.program-code {
-  font-family: var(--font-mono);
-  font-size: 11px;
-  color: var(--steel);
-  letter-spacing: 1px;
-}
-
 .program-title {
   font-size: 18px;
   font-weight: 700;
   color: var(--ink);
-  margin-top: 6px;
   line-height: 1.4;
 }
 

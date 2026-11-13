@@ -30,9 +30,17 @@ export function Partners() {
             提出需求,兩個工作天內回覆方案。
           </p>
           <div className="page-actions">
-            <a className="add-btn" href="#partner-form">
+            <button
+              type="button"
+              className="add-btn"
+              onClick={() =>
+                document
+                  .getElementById('partner-form')
+                  ?.scrollIntoView({ behavior: 'smooth', block: 'start' })
+              }
+            >
               提出合作需求
-            </a>
+            </button>
             <a
               className="ghost-btn"
               href={CONTACT.shopee}
@@ -63,7 +71,6 @@ export function Partners() {
             {PROGRAMS.map((p) => (
               <article className="program" key={p.id}>
                 <div className="program-head">
-                  <span className="program-code">{p.code}</span>
                   <h3 className="program-title">{p.title}</h3>
                   <p className="program-target">適合:{p.target}</p>
                 </div>
@@ -76,7 +83,13 @@ export function Partners() {
                 <a
                   className="program-cta"
                   href="#partner-form"
-                  onClick={() => setProgram(p.id)}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    setProgram(p.id);
+                    document
+                      .getElementById('partner-form')
+                      ?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                  }}
                 >
                   詢問此方案 →
                 </a>
@@ -154,16 +167,17 @@ export function Partners() {
                     value={program}
                     onChange={(e) => setProgram(e.target.value)}
                   >
-                    {PROGRAMS.map((p) => (
+                    {PROGRAMS.map((p, i) => (
                       <option key={p.id} value={p.id}>
-                        {p.code} {p.title}
+                        {i + 1}. {p.title}
                       </option>
                     ))}
+                    <option value="other">{PROGRAMS.length + 1}. 其他</option>
                   </select>
                 </label>
                 <label>
-                  公司 / 店名
-                  <input required placeholder="例:山丘咖啡有限公司" />
+                  公司 / 店名(非必填)
+                  <input placeholder="例:山丘咖啡有限公司" />
                 </label>
                 <label>
                   聯絡人

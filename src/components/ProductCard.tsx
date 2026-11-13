@@ -26,7 +26,10 @@ export function ProductCard({ product }: { product: Product }) {
               className="card-img"
               src={assetUrl(product.image)}
               alt={product.name}
+              width={400}
+              height={400}
               loading="lazy"
+              decoding="async"
               onError={() => setImgFailed(true)}
             />
           )}
